@@ -1,10 +1,11 @@
 ---
-num: "eval03"
-desc: "Evaluation of day 3 presentations"
+assigned: 2020-03-12 14:00
+desc: Evaluation of day 3 presentations
+due: 2020-03-12 15:15
+num: eval03
 ready: false
-assigned: 2020-03-13 14:00
-due: 2020-03-13 15:15
 suppress_hwk_boilerplate: true
+
 ---
 
 <style>
