@@ -5,7 +5,7 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-cs48.github.io # the base hostname & protocol for your site
-baseurl: /w19  # the subpath of your site, e.g. "/blog"
+baseurl: /w20  # the subpath of your site, e.g. "/blog"
 
 include:
   - _pages
@@ -16,20 +16,20 @@ exclude:
   - .bundle
 
 course: "CS48"
-qtr: "W19"
-qxx: "w19"
+qtr: "W20"
+qxx: "w20"
 quarter: "Winter 2019"
 piazza_url: https://piazza.com/class/jkq2p768nf6xb
 gauchospace_course_page: https://gauchospace.ucsb.edu/courses/course/view.php?id=31412
-github_org_name: ucsb-cs48-w19
-github_org_url: https://github.com/ucsb-cs48-w19
-slack_url: https://ucsb-cs48-w19.slack.com
+github_org_name: ucsb-cs48-w20
+github_org_url: https://github.com/ucsb-cs48-w20
+slack_url: https://ucsb-cs48-w20.slack.com
 
-ta_list: "Santha and Caitlin"
-ta_list_full: "Santha Meena Ramamoorthy and Caitlin Scarberry"
-mentors_list: "Eliza, Jose, Nick, Nikhil, Saagar, Scott, and Wei-Tung"
+ta_list: "tba"
+ta_list_full: "tba"
+mentors_list: "tba"
 
-github_url: https://github.com/ucsb-cs48/w19
+github_url: https://github.com/ucsb-cs48/w20
 mentor_url: https://ucsb-cs48-pconrad-mentors.github.io
 
 on_campus: http://proquest.safaribooksonline.com
@@ -48,17 +48,23 @@ num_weeks: 10
 extra_exam_week: true
 sections: "4pm,&nbsp;5pm,&nbsp;6pm"
 
+start_week: 1
+start_date: 2020-01-05
+num_weeks: 10
+extra_exam_week: true
+
 cal_dates: >
   [
-    {"label":"W19 official start date", "date":"2019-01-07" },
-    {"label":"W19 1st day of instruction", "date":"2019-01-07" },	
-    {"label":"Univ Holiday", "date":"2019-01-21" },
-    {"label":"Univ Holiday", "date":"2019-02-18" },
-    {"label":"W19 instruction ends", "date":"2019-03-15" },
-    {"label":"W19 finals start", "date":"2019-03-16" },
-    {"label":"W19 finals end", "date":"2019-03-22" },
-    {"label":"W19 qtr ends", "date":"2019-03-22" }
+    {"label":"W20 1st day of instruction", "date":"2020-01-06" },	
+    {"label":"Univ Holiday", "date":"2020-01-20" },
+    {"label":"Univ Holiday", "date":"2020-02-17" },
+    {"label":"W20 instruction ends", "date":"2020-03-13" },
+    {"label":"W20 finals start", "date":"2020-03-14" },
+    {"label":"W20 finals end", "date":"2020-03-20" },
+    {"label":"W20 qtr ends", "date":"2020-03-20" }
   ]
+
+
 
 hwk_drop_lowest: three
 
