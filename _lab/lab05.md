@@ -1,11 +1,12 @@
 ---
+assigned: 2020-01-30 16:00
+desc: Deliver MVP
+due: 2020-02-13 19:00
+github_org: ucsb-cs48-w19
 layout: lab
 num: lab05
 ready: false
-desc: "Deliver MVP"
-assigned: 2020-01-31 16:00
-due: 2020-02-14 19:00
-github_org: "ucsb-cs48-w19"
+
 ---
 
 <div style="display:none">

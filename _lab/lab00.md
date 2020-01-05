@@ -1,12 +1,13 @@
 ---
+assigned: 2020-01-09 16:00
+desc: Getting Started
+due: 2020-01-17 17:00
 layout: lab
 num: lab00
 ready: false
-desc: "Getting Started"
-assigned: 2020-01-10 16:00
-due: 2020-01-18 17:00
 signup_app: https://ucsb-cs-github-linker.herokuapp.com/
 slack_url: https://ucsb-cs48-w19.slack.com
+
 ---
 
 

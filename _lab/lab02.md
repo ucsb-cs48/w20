@@ -1,11 +1,12 @@
 ---
+assigned: 2020-01-23 16:00
+desc: 'First Project Increment: Hello World, and launch'
+due: 2020-01-30 19:00
+github_org: ucsb-cs48-w19
 layout: lab
 num: lab02
 ready: false
-desc: "First Project Increment: Hello World, and launch"
-assigned: 2020-01-24 16:00
-due: 2020-01-31 19:00
-github_org: "ucsb-cs48-w19"
+
 ---
 
 <div style="display:none">

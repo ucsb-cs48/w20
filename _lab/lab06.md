@@ -1,11 +1,12 @@
 ---
+assigned: 2020-02-06 16:00
+desc: Mentor review of MVP +1 week
+due: 2020-02-20 19:00
+github_org: ucsb-cs48-w19
 layout: lab
 num: lab06
 ready: false
-desc: "Mentor review of MVP +1 week"
-assigned: 2020-02-07 16:00
-due: 2020-02-21 19:00
-github_org: "ucsb-cs48-w19"
+
 ---
 
 <div style="display:none">

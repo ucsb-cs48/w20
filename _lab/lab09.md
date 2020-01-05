@@ -1,11 +1,12 @@
 ---
+assigned: 2020-02-27 16:00
+desc: Adjourning / Final Retro
+due: 2020-03-13 19:00
+github_org: ucsb-cs48-w19
 layout: lab
 num: lab09
 ready: false
-desc: "Adjourning / Final Retro"
-assigned: 2020-02-28 16:00
-due: 2020-03-14 19:00
-github_org: "ucsb-cs48-w19"
+
 ---
 
 <div style="display:none">

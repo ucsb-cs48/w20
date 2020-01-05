@@ -1,11 +1,12 @@
 ---
+assigned: 2020-01-16 16:00
+desc: 'Starting your project: Story Map'
+due: 2018-01-23 19:00
+github_org: ucsb-cs48-w19
 layout: lab
 num: lab01
 ready: false
-desc: "Starting your project: Story Map"
-assigned: 2020-01-17 16:00
-due: 2018-01-24 19:00
-github_org: "ucsb-cs48-w19"
+
 ---
 
 <div style="float:right; width: auto;">

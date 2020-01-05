@@ -1,12 +1,13 @@
 ---
+assigned: 2020-02-20 16:00
+desc: 'FINAL DEADLINE: Final product'
+due: 2020-03-04 23:59
+github_org: ucsb-cs48-w19
+lab_date: 2020-03-07
 layout: lab
 num: lab08
 ready: false
-desc: "FINAL DEADLINE: Final product"
-assigned: 2020-02-21 16:00
-due: 2020-03-05 23:59
-github_org: "ucsb-cs48-w19"
-lab_date: 2020-03-07
+
 ---
 
 <div style="display:none">

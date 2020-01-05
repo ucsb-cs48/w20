@@ -1,11 +1,12 @@
 ---
+assigned: 2020-02-06 16:00
+desc: First Team Retrospective
+due: 2020-02-06 19:00
+github_org: ucsb-cs48-w19
 layout: lab
 num: lab04
 ready: false
-desc: "First Team Retrospective"
-assigned: 2020-02-07 16:00
-due: 2020-02-07 19:00
-github_org: "ucsb-cs48-w19"
+
 ---
 
 <div style="display:none">
