@@ -1,8 +1,9 @@
 ---
+desc: 'Upcoming: Sprint Planning, Retro, MVP'
+lecture_date: 2019-01-29 00:00
 num: lect06
-desc: "Upcoming: Sprint Planning, Retro, MVP"
-lecture_date: 2019-01-30
-ready: true
+ready: false
+
 ---
 
 # Review of the big picture

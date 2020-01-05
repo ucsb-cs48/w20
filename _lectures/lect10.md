@@ -1,8 +1,9 @@
 ---
+desc: Standup, Exam Preview, Time to meet
+lecture_date: 2019-02-12 00:00
 num: lect10
-desc: "Standup, Exam Preview, Time to meet"
-lecture_date: 2019-02-13
-ready: true
+ready: false
+
 ---
 
 # Announcements:

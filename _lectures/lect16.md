@@ -1,8 +1,9 @@
 ---
+desc: Project Presentations, 3 of 3, and course evals
+lecture_date: 2019-03-12 00:00
 num: lect16
-desc: "Project Presentations, 3 of 3, and course evals"
-lecture_date: 2019-03-13
 ready: false
+
 ---
 
 

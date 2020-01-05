@@ -1,8 +1,9 @@
 ---
+desc: Creating a README.md for project
+lecture_date: 2019-01-27 00:00
 num: lect05
-desc: "Creating a README.md for project"
-lecture_date: 2019-01-28
-ready: true
+ready: false
+
 ---
 
 # Topics: README.md

@@ -1,8 +1,9 @@
 ---
+desc: Deployment Tips
+lecture_date: 2019-02-03 00:00
 num: lect07
-desc: "Deployment Tips"
-lecture_date: 2019-02-04
-ready: true
+ready: false
+
 ---
 
 # Clarification on the MVP column, tags, etc.

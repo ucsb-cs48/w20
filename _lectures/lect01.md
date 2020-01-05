@@ -1,8 +1,9 @@
 ---
+desc: Project Team Formation
+lecture_date: 2019-01-08 00:00
 num: lect01
-desc: "Project Team Formation"
-lecture_date: 2019-01-09
-ready: true
+ready: false
+
 ---
 
 

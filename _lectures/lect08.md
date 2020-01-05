@@ -1,8 +1,9 @@
 ---
+desc: Design, Waterfall, Acceptance Tests, Quick Reports
+lecture_date: 2019-02-05 00:00
 num: lect08
-desc: "Design, Waterfall, Acceptance Tests, Quick Reports"
-lecture_date: 2019-02-06
-ready: true
+ready: false
+
 ---
 
 # Announcements

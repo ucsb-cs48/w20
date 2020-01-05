@@ -1,8 +1,9 @@
 ---
+desc: Project Presentations, 1 of 3
+lecture_date: 2019-03-05 00:00
 num: lect14
-desc: "Project Presentations, 1 of 3"
-lecture_date: 2019-03-06
 ready: false
+
 ---
 
 

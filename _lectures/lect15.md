@@ -1,8 +1,9 @@
 ---
+desc: Project Presentations, 2 of 3, and TA Evals
+lecture_date: 2019-03-10 00:00
 num: lect15
-desc: "Project Presentations, 2 of 3, and TA Evals"
-lecture_date: 2019-03-11
 ready: false
+
 ---
 
 # Project Presentations, Part 2 of 3

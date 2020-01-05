@@ -1,8 +1,9 @@
 ---
+desc: More Presentations, identify partner groups
+lecture_date: 2019-02-10 00:00
 num: lect09
-desc: "More Presentations, identify partner groups"
-lecture_date: 2019-02-11
-ready: true
+ready: false
+
 ---
 
 # Identifying partner groups

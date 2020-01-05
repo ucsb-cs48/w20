@@ -1,8 +1,9 @@
 ---
+desc: Ethics, History of SDLC
+lecture_date: 2019-03-03 00:00
 num: lect13
-desc: "Ethics, History of SDLC"
-lecture_date: 2019-03-04
 ready: false
+
 ---
 
 

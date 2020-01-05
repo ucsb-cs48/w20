@@ -1,8 +1,9 @@
 ---
+desc: User Story Mapping
+lecture_date: 2019-01-13 00:00
 num: lect02
-desc: "User Story Mapping"
-lecture_date: 2019-01-14
-ready: true
+ready: false
+
 ---
 
 # Topics: User Story Mapping
