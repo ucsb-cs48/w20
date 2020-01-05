@@ -3,8 +3,8 @@ layout: lab
 num: lab05_mentors
 ready: false
 desc: "Mentor instructions for lab05"
-mentor_due: 2019-03-09 17:00
-ta_due: 2019-03-10 12:00
+mentor_due: 2020-03-09 17:00
+ta_due: 2020-03-10 12:00
 github_org: "ucsb-cs48-w19"
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab01_mentors
-ready: true
+ready: false
 desc: "Mentor instructions for lab01"
-mentor_due: 2019-02-09 17:00
-ta_due: 2019-02-12 17:00
+mentor_due: 2020-02-09 17:00
+ta_due: 2020-02-12 17:00
 github_org: "ucsb-cs48-w19"
 ---
 

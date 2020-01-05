@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab03
-ready: true
+ready: false
 desc: "Deliver Hello World, Plan for Retro, MVP"
-assigned: 2019-01-31 16:00
-due: 2019-02-07 19:00
+assigned: 2020-01-31 16:00
+due: 2020-02-07 19:00
 github_org: "ucsb-cs48-w19"
 ---
 

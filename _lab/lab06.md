@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab06
-ready: true
+ready: false
 desc: "Mentor review of MVP +1 week"
-assigned: 2019-02-07 16:00
-due: 2019-02-21 19:00
+assigned: 2020-02-07 16:00
+due: 2020-02-21 19:00
 github_org: "ucsb-cs48-w19"
 ---
 

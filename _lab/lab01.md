@@ -1,9 +1,9 @@
 ---
 layout: lab
 num: lab01
-ready: true
+ready: false
 desc: "Starting your project: Story Map"
-assigned: 2019-01-17 16:00
+assigned: 2020-01-17 16:00
 due: 2018-01-24 19:00
 github_org: "ucsb-cs48-w19"
 ---
