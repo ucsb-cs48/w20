@@ -12,7 +12,7 @@ permalink: "/teams_page/"
 
 <h2 id="teams" name="teams">Teams</h2>
 
-<iframe class="teams" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRz-4JB7V22LFBQyBd4_iC4h4KAtR03MbAnr5VvsH9DvnYW4_4JWX7gLtnfQu_xnBRm3o8KZtUs2r-2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe class="teams" src="https://docs.google.com/spreadsheets/d/1gonNHTT1peJgj0-LByoZ4Iok99o6-cS1gy0k1edaG_Y/edit?usp=sharing&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <h2 id="roster" name="roster">Roster</h2>
 
