@@ -1,5 +1,5 @@
 ---
-title: CS48 W19
+title: CS48 W20
 permalink: "/"
 ---
 
