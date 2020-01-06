@@ -14,7 +14,7 @@
 
 <h1>CMPSC 48 :: Computer Science Project</h1>
 
-<h2> UCSB Computer Science, Winter 2018 -- Course Syllabus</h2>
+<h2> UCSB Computer Science, Winter 2020 -- Course Syllabus</h2>
 </div>
 
 <div id="navigation">
