@@ -1,7 +1,7 @@
 ---
 title: "Syllabus, CMPSC 48, Winter 2020"
 layout: handout
-ready: true
+ready: false
 ---
 
 
