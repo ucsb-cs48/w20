@@ -75,7 +75,7 @@ will be of equal value (100 pts).
 Notes sheets on exams
 ---------------------
 
--   You are permitted one 8.5 x 11 (standard US letter size paper) sheet of notes for each exam.
+-   You are permitted one 8.5 x 11 (standard US letter size paper) double-sided sheet of notes for each exam.
 -   You are permitted only one sheet per exam.
 -   Your notes sheet will be collected and WILL NOT BE RETURNED
 -   So, if you need a copy of it, make a copy BEFORE you come to the exam.
@@ -88,7 +88,7 @@ Notes sheets on exams
 # Project Points
 
 Information about project grading will be discussed in a separate document
-and released by Wednesday January 9.
+and released during week 2.
 
 
 
