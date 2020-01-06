@@ -1,19 +1,19 @@
 ---
-title: "Syllabus, CMPSC 48, Winter 2019"
+title: "Syllabus, CMPSC 48, Winter 2020"
 layout: handout
-ready: false
+ready: true
 ---
 
 
 # Basic Facts
 
-* **Instructor**:  [Phill Conrad](http://www.cs.ucsb.edu/~pconrad) (contact via Piazza)
-   * Use the "instructor messsage" feature to contact Prof. Conrad, as well as all TAs, Readers and Mentors
-* **Lecture**: 2pm-3:15pm MW. ROOM TBA. ATTENDANCE REQUIRED. 
+* **Instructor**:  [Tobias Höllerer](http://www.cs.ucsb.edu/~holl) (contact via Piazza)
+   * Use the "instructor messsage" feature to contact Prof. Höllerer, as well as all TAs, Readers and Mentors
+* **Lecture**: 2pm-3:15pm MW. PHELPS 3526. ATTENDANCE REQUIRED. 
 * **TAs**: {{site.ta_list_full}} (contact via Piazza)
 * **Mentors**: {{site.mentors_list}} (contact via Piazza)
 * **Lab** (50 minute discussion section) Thursday {{site.sections}}, Phelps 3525. ATTENDANCE REQUIRED.                                         
-* Office Hours: See: <http://www.cs.ucsb.edu/~pconrad/ofchrs>  
+* Office Hours: See: <http://www.cs.ucsb.edu/~holl/CS48>  
 
 For course website links, visit the course Gauchospace site.
 
