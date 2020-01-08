@@ -15,7 +15,8 @@
 
 <h3>Required Readings</h3>
   <ul>
-    <li>PDF links (for topics not really covered by the textbook) - all from
+  <li>PDF: <a href="http://sites.cs.ucsb.edu/~holl/CS48/handouts/Scrum.pdf">Scrum: A Breathtakingly Brief and Agile Introduction</a></li>
+    <li>PDF links (for Software Engineering and Design topics) - all from
     Craig Larman, <em>Applying UML and Patterns: An Introduction to
     Object-Oriented Analysis and Design, and the Unified Process. 2nd Edition.</em>:
     <ul type="circle">
@@ -28,7 +29,7 @@
       <li><a href="project/ArchitectureLarman.pdf">Architecture planning</a> -
       Chapters 30, 31 and 32.</li>
     </ul></li>
-    <li>Textbook: Steve McConnell. <em>Code Complete, 2nd Edition</em>,
+    <li>Further Reading: an old Textbook: Steve McConnell. <em>Code Complete, 2nd Edition</em>,
     Microsoft Press, 2004.<br>
     Sites by the <a href="http://cc2e.com">author</a>, the
     <a href="https://www.microsoftpressstore.com/store/code-complete-9780735619678">publisher</a>,
