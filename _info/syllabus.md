@@ -56,7 +56,7 @@ A+ grades: These may be awarded to the very best performing students in the clas
 | <s>Midterm</s>  | <s>15 %</s> |
 | <s>Labs</s> | <s>10 %</s> |
 | <s>Projects</a>  | <s>50</s> % |
-| Final Exam | <s>15</s> 20% |
+| Exam (likely week 8) | <s>15</s> 20% |
 | Hwks, In Class Assignments | <s>10</s> 15% |
 | Project Grade (labs)  | 30% |
 | Project Grade (final product) | 35% |
