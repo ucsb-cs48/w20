@@ -1,6 +1,6 @@
 ---
 name: Tobias Höllerer
-role: Instructor
+role: Instructor <Mentor, Reader, TA>
 img: tobias.jpg
 img100w: tobias_100w.jpg
 bio: >
