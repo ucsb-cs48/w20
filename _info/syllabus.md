@@ -59,7 +59,8 @@ A+ grades: These may be awarded to the very best performing students in the clas
 | Final Exam | <s>15</s> 20% |
 | Hwks, In Class Assignments | <s>10</s> 15% |
 | Project Grade (labs)  | 30% |
-| Project Grade (final product) | 35% | 
+| Project Grade (final product) | 35% |
+
 
 Missing homework/in-class activities: Drop the lowest {{ site.hwk_drop_lowest }}
 -------------------------------------------------------
