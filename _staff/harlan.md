@@ -1,3 +1,4 @@
+---
 name: "Harlan Kringen"
 role: "TA"
 bio: >
@@ -5,3 +6,4 @@ bio: >
      I spend my spare time trying to find Mech-E students to coerce into helping me build a coffee roaster.
 img: harlan.jpeg
 img100w: harlan_100w.jpeg
+---
