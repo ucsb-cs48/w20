@@ -23,11 +23,11 @@ Students, you are welcome to read them; there are no secrets here.   But there a
 The task is to create feedback repos for the individual students.  These are the places where we'll record information
 about their grades for various items in the course.
 
-(Note that it would be *so much nicer* if we had an app to do this.    I would love to help mentor a team of programmers to do just that, and had thought we'd be doing that this quarter.   Instead, I'm spending my time fighting cancer.  Next quarter, perhaps.  So in the meantime, we'll just continue to do it by hand, and it'll get done fast since we are spreading the work over 10 mentors.)
+(Note that it would be *so much nicer* if we had an app to do this. Phill Conrad is on it, but for now we'll just continue to do it by hand, and it'll get done fast since we are spreading the work over 8 mentors.)
 
 # Create a team level FEEDBACK repo for each of your teams
 
-First thing: go to <https://github.com/ucsb-cs48-w19> and create a new **private* repo with your teams name followed by the suffix `_FEEDBACK`
+First thing: go to <https://github.com/ucsb-cs48-w20> and create a new **private* repo with your team's name followed by the suffix `_FEEDBACK`
 
 | For team | create repo |
 |----------|-------------|
