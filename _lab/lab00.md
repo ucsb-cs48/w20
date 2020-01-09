@@ -44,7 +44,7 @@ If you are not able to do so, you will need to contact the ECI Help Desk at <a h
 ## Step 2: Get setup with github and add yourself to our organization
 
 We will be using github.com in this course. We have created an
-organization called {{site.github_org_name}} on github.com where you can
+organization called {{github_org_name}} on github.com where you can
 create repositories (repos) for your assignments in this course.
 
 The advantage of creating private repos under this organization is
@@ -73,7 +73,7 @@ Find your mentor.  The team list is here, and it will tell you who your mentor i
 
 Then, ask them to add you to the Slack for the course which is:
 
-* <{{page.slack_url}}>
+* <{{site.slack_url}}>
 
 There should be a channel there for your team.   Find that channel and join it.
 
@@ -81,7 +81,7 @@ There should be a channel there for your team.   Find that channel and join it.
 
 First, your team must decide what language you want to use, so your mentor can choose the correct .gitignore. This choice isn't permanent. Once you've communicated your choice to your mentor, they should create a repo under the organization:
 
-* <https://github.com/ucsb-cs48-w19/>
+* {{github_org_url}}
 
 Settings for repo:
 * Public or private (your team decides)
