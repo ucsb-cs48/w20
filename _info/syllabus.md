@@ -53,10 +53,10 @@ A+ grades: These may be awarded to the very best performing students in the clas
 
 | Grade Item                                                                   | Percentage of Final Grade |
 |------------------------------------------------------------------------------|---------------------------|
-| Exam (likely week 8) | 20% |
-| Hwks, In Class Assignments | 15% |
-| Project Grade (labs)  | 30% |
-| Project Grade (final product) | 35% |
+| Exam (likely week 8)   | 20% |
+| Hwks, In Class Assignments   | 15% |
+| Project Grade (labs)    | 30% |
+| Project Grade (final product)   | 35% |
 
 
 Missing homework/in-class activities: Drop the lowest {{ site.hwk_drop_lowest }}
