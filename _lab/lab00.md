@@ -20,11 +20,11 @@ Seating charts are here:
 
 | Row | 4pm | 5pm | 6pm |
 |-----|-----|-----|-----|
-|1|blue-spotify-queue	|buy-my-clothes|	park-finder|
-|2|gold-scheduler	|countries-over-time	|stock-trading-6pm|
-|3|gold-spotify-queue	|help-those-in-need|	ucsb-rooms|
-|4|sleep-schedule|	ucsb-rideshare|	when-2-meet-6pm|
-|5|stock-trading-4pm	| 5pm-when-2-meet	|  | 
+|1|4pm-MsgOrg	|5pm-Ride	|6pm-Climb	|
+|2|4pm-Gold	|5pm-Discord	|6pm-BuySell	|
+|3|4pm-Tree	|5pm-Sched	|6pm-Housing	|
+|4|4pm-Synth|5pm-Game	|6pm-Spotify|
+|5|4pm-GPS	|5pm-Restroom | | 
 {:.table .table-sm .table-striped .table-bordered}
 
 
