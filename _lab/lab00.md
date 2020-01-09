@@ -81,7 +81,7 @@ There should be a channel there for your team.   Find that channel and join it.
 
 First, your team must decide what language you want to use, so your mentor can choose the correct .gitignore. This choice isn't permanent. Once you've communicated your choice to your mentor, they should create a repo under the organization:
 
-* {{github_org_url}}
+* <{{github_org_url}}>
 
 Settings for repo:
 * Public or private (your team decides)
