@@ -13,13 +13,12 @@ table.hdrLinks * td { padding-right: 2em;}
 table.hdrLinks * td.curr { font-weight:bold; }
 </style>
 
-<h1>Tobias Höllerer—<strong>Office Hours</strong>:</h1>
+<h2>Tobias Höllerer—<strong>Office Hours</strong>:</h2>
 
 
-<h1>Harlan Kringen—<strong>Office Hours</strong>:</h1>
+<h2>Harlan Kringen—<strong>Office Hours</strong>:</h2>
 
 
-<h1>Richa Wadaskar—<strong>Office Hours</strong>:</h1>
+<h2>Richa Wadaskar—<strong>Office Hours</strong>:</h2>
 
 
-</div> 
