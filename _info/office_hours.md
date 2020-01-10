@@ -15,6 +15,8 @@ table.hdrLinks * td.curr { font-weight:bold; }
 
 <h2>Tobias Höllerer—<strong>Office Hours</strong>:</h2>
 
+Tue, 11-12:30pm, and by appointment
+
 
 <h2>Harlan Kringen—<strong>Office Hours</strong>:</h2>
 
