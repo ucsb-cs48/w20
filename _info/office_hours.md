@@ -13,14 +13,14 @@ table.hdrLinks * td { padding-right: 2em;}
 table.hdrLinks * td.curr { font-weight:bold; }
 </style>
 
-<h2>Tobias Höllerer—<strong>Office Hours</strong>:</h2>
+<h2>Tobias Höllerer (instructor) — <strong>Office Hours</strong>:</h2>
 
 Tue, 11-12:30pm, and by appointment
 
 
-<h2>Harlan Kringen—<strong>Office Hours</strong>:</h2>
+<h2>Harlan Kringen (TA) — <strong>Office Hours</strong>:</h2>
 
 
-<h2>Richa Wadaskar—<strong>Office Hours</strong>:</h2>
+<h2>Richa Wadaskar (TA) — <strong>Office Hours</strong>:</h2>
 
 
