@@ -22,5 +22,5 @@ Tue, 11-12:30pm, and by appointment
 
 
 <h4>Richa Wadaskar (TA) — <strong>Office Hours</strong>:</h4>
-
+Wed, 3:30pm-4:30pm, in CSIL, and by appointment
 
