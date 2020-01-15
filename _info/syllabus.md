@@ -7,7 +7,7 @@ ready: false
 # Basic Facts
 
 * **Instructor**:  [Tobias Höllerer](http://www.cs.ucsb.edu/~holl) (contact via Slack)
-   * Prof. Höllerer is @Tobias Höllerer on Slack, as well as all TAs, Readers and Mentors
+   * Prof. Höllerer is @Tobias Höllerer on Slack, all TAs, Readers and Mentors are available there as well, and you can form group DMs
 * **Lecture**: 2pm-3:15pm MW. PHELPS 3526. ATTENDANCE REQUIRED. 
 * **TAs**: {{site.ta_list_full}} (contact via Slack)
 * **Mentors**: {{site.mentors_list}} (contact via Slack)
