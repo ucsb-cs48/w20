@@ -25,9 +25,9 @@ github_org_name: ucsb-cs48-w20
 github_org_url: https://github.com/ucsb-cs48-w20
 slack_url: https://ucsb-cs48-w20.slack.com
 
-ta_list: "tba"
-ta_list_full: "tba"
-mentors_list: "tba"
+ta_list: "Harlan Kringen, Richa Wadaskar"
+ta_list_full: "Harlan Kringen, Richa Wadaskar"
+mentors_list: "Anu Polishetty, Connor Daly, Ekta Shahani, JingJing Yu, Terrell Marshall"
 
 github_url: https://github.com/ucsb-cs48/w20
 mentor_url: https://ucsb-cs48-pconrad-mentors.github.io
@@ -52,6 +52,7 @@ start_week: 1
 start_date: 2020-01-05
 num_weeks: 10
 extra_exam_week: true
+sections: "4pm,&nbsp;5pm,&nbsp;6pm"
 
 cal_dates: >
   [
