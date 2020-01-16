@@ -105,13 +105,14 @@ Example:
 
 Mentor: Timothy Cook
 
-Meeting Time: lab01 <this could also be something like lec05 (for Lecture 5), or 01-17-2pm for an out-of-class-time meeting> 
+Meeting Time: lab01 
 
-Type of meeting: <can be one or multiple of [sprint planning, daily scrum, sprint review, retrospective, story time]>
+Type of meeting: One or several of [sprint planning, daily scrum, sprint review, retrospective, story time]>
 
 Team:  Anu Polisetty✓, Tobias Höllerer ✓, Chen Zhu ✓, Harlan Kringen ✗, Richa Wadaskar ✗ 
 
 </div>
+
 
 Taking attendance for today's lab, and making sure your name is on the flip chart with a ✓ or an ✗  is a portion of your group's grade for today's work. Please log all your meetings in Github in this fashion from now on. If the meeting is face-to-face, please submit a photo of the attendance taken, if the meeting is virtual, please submit a screenshot of your meeting tool of choice with the attendance information. 
 
@@ -119,6 +120,8 @@ Taking attendance for today's lab, and making sure your name is on the flip char
 
 **NOTE 2**: Having a group member (or two) absent will not cause your group's grade to be reduced.  However you are require to *record* attendance
 in order for the group to get full credit for the lab. In the future, team members that cannot make it to a meeting should message their information to the meeting lead beforehand.
+
+**NOTE 3** In the future, meeting time can also be something like lec05 (for Lecture 5), or 01-17-2pm for an out-of-class-time meeting.
 
 In your github repository, you will structure the documentation of your meetings into 'sprints' (which are week-long unless you as a team decide on a different interval). 
 
