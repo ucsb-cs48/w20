@@ -126,7 +126,7 @@ In your github repository, you will structure the documentation of your meetings
 
 <div class="grade" markdown="1">
 
-**Graded**: (20 pts) You earn these points if/only if:
+**Graded**: (15 pts) You earn these points if/only if:
 * your group produced a chart in the requested format during lab on {{page.assigned |  date: "%a, %b %d"}}.
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
@@ -141,8 +141,6 @@ From now on, please document all your meetings in the github repository in this 
 
 
 ## Step 3: Discuss the User Journey
-
-(This step is not graded, per se, but you can't meaningfully accomplish the later stages if you try to skip it.)
 
 As a team, discuss the "user journey" for your proposed application. 
 
@@ -193,7 +191,7 @@ You'll know you have it, and you are ready for this step when:
 
 <div class="grade" markdown="1">
 
-**Graded**: (20 pts) You earn these points if/only if:
+**Graded**: (15 pts) You earn these points if/only if:
 * your group produced a problem scenario in the form of a github file './team/problem_scenario.md', and 
 * a user journey documentation in the format of your choice. Summarize what you came up with in a file './team/user_journey.md'
 </div>
@@ -239,10 +237,10 @@ If making a new map would help, do that.  If you are ready to go staight to user
 
 **OPTIONAL but STRONGLY ENCOURAGED**: If you made additional charts
 on the whiteboard or a paper flip chart, take pictures of them,
-and upload them to your repo under the `./team/lab01/` directory.
+and upload them to your repo under the `./team/sprint01/` directory.
 
-You already have a (required) `./team/lab01/chart01.jpg` or `./team/lab01/chart01.png`, for example, so you are encouraged to continue that naming
-conventions with `chart02.jpg`, `chart03.jpg`, etc.
+You already have a (required) `./team/sprint01/lab01.jpg` or `./team/sprint01/lab01.png`, for example, so you are encouraged to continue that naming
+conventions with `./team/sprint01/lab01-chart01.jpg`, `./team/sprint01/lab01-chart02.png`, etc.
 
 </div>
 
@@ -284,8 +282,8 @@ should serve as the basis for all future development of your app. That is, you'l
 
 <div class="grade" markdown="1">
 
-**Graded**: (20 pts) You earn these points if/when you:
-* met the criteria for the previous item (present in lab, team forked repo, you are a collaborator), AND
+**Graded**: (15 pts) You earn these points if/when you:
+* met the criteria for the previous item (present in lab, team branched repo, you are a collaborator), AND
 * your team has created a Kanban board by the due date of the lab, ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
 
 </div>
@@ -302,7 +300,7 @@ If your mentor has questions/concerns, they'll make those in the comments.  You 
 
 <div class="grade" markdown="1">
 
-**Graded**: (30 pts) You earn these points when and if
+**Graded**: (20 pts) You earn these points when and if
 * your team has a set of issues for your team to work on by the due date for this lab, i.e. ({{page.due |  date: "%a, %b %d at %l:%M%p"}}).
 
 </div>
@@ -320,8 +318,9 @@ Members that are not present should take responsibility for ensuring that they
 **Graded**: (30 pts) Your team  earn these points as when each team member is assigned to at least one issue by the due date of this lab, i.e. ({{page.due |  date: "%a, %b %d at %l:%M%p"}}).
 
 Points are pro-rated based on team size, i.e.
+* 7 person team: 4.29 pts/member
 * 6 person team: 5 pts/member
-* 5 person team, 6 pts/member
+* 5 person team: 6 pts/member
 
 (These points do not require being physically present in lab on ({{page.assigned |  date: "%a, %b %d "}}.)
 
@@ -332,4 +331,4 @@ Points are pro-rated based on team size, i.e.
 
 You start working on your assigned issues!  
 
-Credits: Many thanks to [John Cutler](https://twitter.com/johncutlefish?lang=en) for his assistance in consulting on this assignment.
+Credits: Many thanks to [John Cutler](https://twitter.com/johncutlefish?lang=en) for his assistance in consulting on the original version of this assignment.
