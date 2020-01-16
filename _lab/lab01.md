@@ -162,8 +162,8 @@ Beyond the problem scenario, you can document the design of your user journey in
 
 IF IT IS HELPFUL, you *could* use the form shown in Phill Conrad's videos, linked above, where you have a series of stories that form column headings across the top of the page, and then you have descriptions of specific user interactions as sticky notes in the columns, as illustrated here (click for larger image):
 
-<a href="{{ 'lab/lab01/story_map_example.png' | relative_url }}" data-ajax="false">
-<img src="{{ 'lab/lab01/story_map_example_30pct.png' | relative_url }}" alt="Story Map Example">
+<a href="{{ 'lab/story_map_example.png' | relative_url }}" data-ajax="false">
+<img src="{{ 'lab/story_map_example_30pct.png' | relative_url }}" alt="Story Map Example">
 </a>
 **(Click the image above for a more legible version)**
 
@@ -276,8 +276,8 @@ You'll do this work in a branch or fork of the main repo, and then make a pull r
 HOWEVER, you'll decide as a team which of these is the best implementation of the Hello World, code, and 
 should serve as the basis for all future development of your app. That is, you'll be starting with this Hello World code, and building your app on top of it.
 
-<a href="{{ 'lab/lab01/first_issue.png' | relative_url }}" data-ajax="false">
-<img src="{{ 'lab/lab01/first_issue_30pct.png' | relative_url }}" alt="First Issue">
+<a href="{{ 'lab/first_issue.png' | relative_url }}" data-ajax="false">
+<img src="{{ 'lab/first_issue_30pct.png' | relative_url }}" alt="First Issue">
 </a>
 
 **(Click the image above for a more legible version)**
