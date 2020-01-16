@@ -156,7 +156,9 @@ Identify:
 
 Discuss this with your group, and on your paper, write down whatever comes to mind.  
 
-Write a *Problem Scenario* as discussed in class, which is basically a short story, involving a subset of the concrete *Personas* you came up with in assignment *h02* and expressing what the people eventually will want to achieve with your product and what the problem is with current solutions.
+The beginning of your user journey is a *Problem Scenario* as discussed in class, which is basically a short story, involving a subset of the concrete *Personas* you came up with in assignment *h02* and expressing what the people eventually will want to achieve with your product and what the problem is with current solutions.
+
+Beyond the problem scenario, you can document the design of your user journey in free form. 
 
 IF IT IS HELPFUL, you *could* use the form shown in Phill Conrad's videos, linked above, where you have a series of stories that form column headings across the top of the page, and then you have descriptions of specific user interactions as sticky notes in the columns, as illustrated here (click for larger image):
 
@@ -191,7 +193,7 @@ You'll know you have it, and you are ready for this step when:
 
 <div class="grade" markdown="1">
 
-**Graded**: (15 pts) You earn these points if/only if:
+**Graded**: (20 pts) You earn these points if/only if:
 * your group produced a problem scenario in the form of a github file './team/problem_scenario.md', and 
 * a user journey documentation in the format of your choice. Summarize what you came up with in a file './team/user_journey.md'
 </div>
@@ -239,7 +241,7 @@ If making a new map would help, do that.  If you are ready to go staight to user
 on the whiteboard or a paper flip chart, take pictures of them,
 and upload them to your repo under the `./team/sprint01/` directory.
 
-You already have a (required) `./team/sprint01/lab01.jpg` or `./team/sprint01/lab01.png`, for example, so you are encouraged to continue that naming
+You already have a (required) `./team/sprint01/lab01.jpg` or `./team/sprint01/lab01.png`, so you are encouraged to continue that naming
 conventions with `./team/sprint01/lab01-chart01.jpg`, `./team/sprint01/lab01-chart02.png`, etc.
 
 </div>
