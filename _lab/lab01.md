@@ -2,7 +2,7 @@
 assigned: 2020-01-16 16:00
 desc: 'Starting your project: Story Map'
 due: 2020-01-23 19:00
-github_org: ucsb-cs48-w19
+github_org: ucsb-cs48-w20
 layout: lab
 num: lab01
 ready: true
@@ -99,7 +99,7 @@ Write the name of your project, your mentor, and the names of the people on your
 
 Example:
 
-<div style="width: 50em; height: 15em; border: 4px solid #ccc; padding: 1em;" markdown="1" >
+<div style="width: 50em; height: 18em; border: 4px solid #ccc; padding: 1em;" markdown="1" >
 
 # Project: iOS Health App
 
