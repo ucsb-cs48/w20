@@ -29,7 +29,7 @@ project repo, on the Github web interface.
 Your work will be checked by the instructional staff directly on Github.
 
 You may also end up doing some work on a whiteboard and/or flip chart.  If so, you should take photos of that, 
-and upload them to your repo, under the `./team` directory, inside a directory called `./team/lab01/` as instructed below.
+and upload them to your repo, under the `./team` directory, inside a directory called `./team/sprint01/` as instructed below.
 
 Note that throughout these instructions `./team` refers to the directory
 `team` at the root of your project repository; the same directory where
