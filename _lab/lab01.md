@@ -35,7 +35,7 @@ Note that throughout these instructions `./team` refers to the directory
 `team` at the root of your project repository; the same directory where
 you put your `./team/NORMS.md` file in a previous lab.
 
-You are encouraged to do this on a branch or fork, and do a pull request,
+You are encouraged to do this on a branch, and do a pull request,
 as with all changes to your project's repo.
 
 
