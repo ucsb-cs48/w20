@@ -5,7 +5,7 @@ due: 2020-01-23 19:00
 github_org: ucsb-cs48-w19
 layout: lab
 num: lab01
-ready: false
+ready: true
 
 ---
 
@@ -126,7 +126,7 @@ In your github repository, you will structure the documentation of your meetings
 
 <div class="grade" markdown="1">
 
-**Graded**: (15 pts) You earn these points if/only if:
+**Graded**: (20 pts) You earn these points if/only if:
 * your group produced a chart in the requested format during lab on {{page.assigned |  date: "%a, %b %d"}}.
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
@@ -302,7 +302,7 @@ If your mentor has questions/concerns, they'll make those in the comments.  You 
 
 <div class="grade" markdown="1">
 
-**Graded**: (20 pts) You earn these points when and if
+**Graded**: (15 pts) You earn these points when and if
 * your team has a set of issues for your team to work on by the due date for this lab, i.e. ({{page.due |  date: "%a, %b %d at %l:%M%p"}}).
 
 </div>
