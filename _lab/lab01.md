@@ -333,4 +333,4 @@ Points are pro-rated based on team size, i.e.
 
 You start working on your assigned issues!  
 
-Credits: Many thanks to [John Cutler](https://twitter.com/johncutlefish?lang=en) for his assistance in consulting on the original version of this assignment.
+Credits: Many thanks to Phill Conrad for designing the original version of this lab exercise and [John Cutler](https://twitter.com/johncutlefish?lang=en) for his assistance in consulting on the original version of this assignment.
