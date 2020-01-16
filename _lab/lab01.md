@@ -71,7 +71,7 @@ If you want to reference the slides from the videos, they are here:
 
 ## Step 1:  Gather in your team
 
-Here is the new for seating chart teams in lab.  Gather in your row first.
+Here is the new seating chart for teams in lab.  Gather in your row first.
 
 | Row |Story Map Location 4pm | 5pm | 6pm |
 |-----|-------------------|-----|-----|
@@ -105,14 +105,22 @@ Example:
 
 Mentor: Timothy Cook
 
+Meeting Time: lab01 <this could also be something like lec05 (for Lecture 5), or 01-17-2pm for an out-of-class-time meeting> 
+
+Type of meeting: <can be one or multiple of [sprint planning, daily scrum, sprint review, retrospective, story time]>
+
 Team:  Anu Polisetty✓, Tobias Höllerer ✓, Chen Zhu ✓, Harlan Kringen ✗, Richa Wadaskar ✗ 
 
 </div>
 
-Taking attendance for today's lab, and making sure your name is on the flip chart with a ✓ or an ✗  is a portion of your group's grade for today's work. In addition to documenting this via a picture, please also use a simple log mechanism in your team's slack channel with this information. Your mentor will implement that with you.
+Taking attendance for today's lab, and making sure your name is on the flip chart with a ✓ or an ✗  is a portion of your group's grade for today's work. Please log all your meetings in Github in this fashion from now on. If the meeting is face-to-face, please submit a photo of the attendance taken, if the meeting is virtual, please submit a screenshot of your meeting tool of choice with the attendance information. 
 
-**NOTE**: Having a group member (or two) absent will not cause your group's grade to be reduced for this lab.  However you are require to *record* attendance
-in order for the group to get full credit for the lab.
+**NOTE 1**: The first team member listed should be the 'lead' for this meeting, i.e. a team member who is responsible for recording meeting information this time (also called a 'scribe'). In the future, this person likely called/coordinated the meeting. Meeting leads are different from project owner and Scrum master and we expect/require that this responsibility rotates among your team members!
+
+**NOTE 2**: Having a group member (or two) absent will not cause your group's grade to be reduced.  However you are require to *record* attendance
+in order for the group to get full credit for the lab. In the future, team members that cannot make it to a meeting should message their information to the meeting lead beforehand.
+
+In your github repository, you will structure the documentation of your meetings into 'sprints' (which are week-long unless you as a team decide on a different interval). 
 
 <div class="grade" markdown="1">
 
@@ -121,10 +129,13 @@ in order for the group to get full credit for the lab.
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
 * you took a picture of this and uploaded it to the /team directory of your
-   repo, under a subdirectory called `./team/lab01/`, with the name
-   `./team/lab01/chart01.png` or `./team/lab01/chart01.jpg`.  Please use
+   repo, under a subdirectory called `./team/sprint01/lab01/`, with the name
+   `./team/sprint01/lab01.png` or `./team/sprint01/lab01.jpg`.  Please use
    the requested name to make your chart easier to find.
+* the meeting notes the scribe took are added to github in a file `./team/sprint01/lab01.md`. For future meetings, you will replace 'lab01' with the respective meeting time denominator (e.g. lec05 or 01-17-2pm)
 </div>
+
+From now on, please document all your meetings in the github repository in this way.
 
 
 ## Step 3: Discuss the User Journey
