@@ -99,7 +99,7 @@ Write the name of your project, your mentor, and the names of the people on your
 
 Example:
 
-<div style="width: 50em; height: 20em; border: 4px solid #ccc; padding: 1em;" markdown="1" >
+<div style="width: 50em; height: 15em; border: 4px solid #ccc; padding: 1em;" markdown="1" >
 
 # Project: iOS Health App
 
@@ -110,7 +110,6 @@ Meeting Time: lab01
 Type of meeting: <one or several of [sprint planning, daily scrum, sprint review, retrospective, story time]>
 
 Team:  Anu Polisetty✓, Tobias Höllerer ✓, Chen Zhu ✓, Harlan Kringen ✗, Richa Wadaskar ✗ 
-
 </div>
 
 
@@ -195,7 +194,8 @@ You'll know you have it, and you are ready for this step when:
 <div class="grade" markdown="1">
 
 **Graded**: (20 pts) You earn these points if/only if:
-* your group produced a problem scenario in the form of a github file ./team/problem_scenario.md, and a user journey documentation of your choice.
+* your group produced a problem scenario in the form of a github file './team/problem_scenario.md', and 
+* a user journey documentation in the format of your choice. Summarize what you came up with in a file './team/user_journey.md'
 </div>
 
 ## Step 4: Move towards minimum viable product
