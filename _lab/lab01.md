@@ -1,7 +1,7 @@
 ---
 assigned: 2020-01-16 16:00
 desc: 'Starting your project: Story Map'
-due: 2018-01-23 19:00
+due: 2020-01-23 19:00
 github_org: ucsb-cs48-w19
 layout: lab
 num: lab01
@@ -107,7 +107,7 @@ Mentor: Timothy Cook
 
 Meeting Time: lab01 
 
-Type of meeting: One or several of [sprint planning, daily scrum, sprint review, retrospective, story time]>
+Type of meeting: <one or several of [sprint planning, daily scrum, sprint review, retrospective, story time]>
 
 Team:  Anu Polisetty✓, Tobias Höllerer ✓, Chen Zhu ✓, Harlan Kringen ✗, Richa Wadaskar ✗ 
 
@@ -191,6 +191,12 @@ You'll know you have it, and you are ready for this step when:
   it happens to be a webapp, or a mobile app, or even an app at all.    It shoudn't depend on technology specifics.
 
 * The <b>value exchange</b> part is clearly identified: the goal/need/desire of the user, and how that gets acheived/met/fulfilled
+
+<div class="grade" markdown="1">
+
+**Graded**: (20 pts) You earn these points if/only if:
+* your group produced a problem scenario in the form of a github file ./team/problem_scenario.md, and a user journey documentation of your choice.
+</div>
 
 ## Step 4: Move towards minimum viable product
 
