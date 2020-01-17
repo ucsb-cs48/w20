@@ -131,7 +131,7 @@ In your github repository, you will structure the documentation of your meetings
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
 * you took a picture of this and uploaded it to the /team directory of your
-   repo, under a subdirectory called `./team/sprint01/lab01/`, with the name
+   repo, under a subdirectory called `./team/sprint01/`, with the name
    `./team/sprint01/lab01.png` or `./team/sprint01/lab01.jpg`.  Please use
    the requested name to make your chart easier to find.
 * the meeting notes the scribe took are added to github in a file `./team/sprint01/lab01.md`. For future meetings, you will replace 'lab01' with the respective meeting time denominator (e.g. lec05 or 01-17-2pm)
