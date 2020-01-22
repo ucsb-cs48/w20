@@ -121,7 +121,7 @@ This component of your team grade is designed to encourage each team member to r
 
 
 
-# Hello World app in a branch, and a pull request is performed
+# Tracking Progress of GitHub Issues
 
 <div class="grade" markdown="1">
 
