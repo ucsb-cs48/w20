@@ -5,7 +5,7 @@ due: 2020-01-30 19:00
 github_org: ucsb-cs48-w19
 layout: lab
 num: lab02
-ready: false
+ready: true
 
 ---
 
@@ -34,17 +34,17 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # Checking over your deliverables for [lab01]({{'/lab/lab01/' | relative_url }}) 
 
-The following deliverables are due for [lab01]({{'/lab/lab01/' | relative_url }}) .   Check over them and make sure these are complete.
-Even if, technically, the deadline for those has passed, the mentors/TAs will not start the official grading of those until after this lab ({{page.num}}) is complete this evening.  So this is your last opportunity.
+The following deliverables are due for [lab01]({{'/lab/lab01/' | relative_url }}) .   Check over them and make sure these are complete by the end of Section today.
+The mentors/TAs will start the official grading after this lab ({{page.num}}) is complete this evening.  So this is your last opportunity.
 
 Also look at the green "Graded" boxes in the instructions for [lab01]({{'/lab/lab01/' | relative_url }}) 
 
-The following list is offered as additional clarificaiton of the graded items for [lab01]({{'/lab/lab01/' | relative_url }}) 
+The following list is offered as additional clarification of these graded items for [lab01]({{'/lab/lab01/' | relative_url }}) 
 
 * There should be a Kanban board (a Github Project associated with your repo) for your team
 * That Kanban board should have a complete set of user stories on it, that, when complete, results in a minium viable product for
    your app; one that clearly delivers value to the user.   User stories should be plain old "cards" on the Kanban board.
-* There should be a complete set of issues for each of those user stories; a set of issue that are specific TODO's that a individual, pair, or 
+* There should be a complete set of issues for each of those user stories; a set of issues that are specific TODO's that a individual, pair, or 
    sub-group of your project team can pick up and start coding from.  Each of those issues should have a clear set of criteria for
    what it means to be "done" with that issue.
 * In addition, there should be set of issues for creating "Hello World" apps;  There should be one per each team member or pair of team
@@ -55,7 +55,7 @@ The following list is offered as additional clarificaiton of the graded items fo
 You are encouraged to conduct a standup meeting as a team.
 
 Find a space in which to gather, standing in a circle, and answer three questions:
-* What have you done since our last team checkin
+* What have you done since our last team check-in
 * What are you working on now?
 * Are there any barriers or blocks to your progress?
 
@@ -71,7 +71,7 @@ By the due date of this assignment (i.e. {{page.due |  date: "%a, %b %d at %l:%M
 
 That increment includes all of the following:
 * Each team member has participated either as a solo programmer, or as part of a pair, in producing a "Hello World" type app for the
-   framework you are using for your project.   You will get two grades for this: one as part of your team grade, and another as
+   framework you are using for your project.  You will get two grades for this: one as part of your team grade, and another as
    an individual grade, as explained below.
 * As a team, you've settled on the work you are going to do after the Hello World phase to move towards your minimum viable product (MVP), and you've put user stories and issues in your In-Progress column for each team member.
 
@@ -82,14 +82,14 @@ More on this below, and on how we'll be assessing this for both a team and an in
 
 <div class="grade" markdown="1">
 
-**Graded (lab02-I)**: (40 pts) towards (lab02-I) is your individual grade for lab02.  Your mentor will do a code review against a rubric of items including all of the instructions in this lab, as well as conventional notions of good coding practice that you should have learned in CS16/24/32.   Your TA or instructor will then do an independent assessment, informed by the mentors code review, and assign a grade. If you are unsure about your code follows good practice, you are encouraged to complete it early and meet with your mentor, your TA, or another mentor/TA during [open lab hours]({{ '/info/open_lab_hours/' | relative_url }}) to go over it in advance.
-The components of this grade are listed below.   These points cover the basic functionality and code of your Hello World app on the basis of the code review.  The remaining points cover mechanics of the release process (issues, version control, deployment/demos).
+**Graded (lab02-I)**: (40 pts) towards (lab02-I) is your individual grade for lab02.  Your mentor will do a code review against a rubric of items including all of the instructions in this lab, as well as conventional notions of good coding practice that you should have learned in CS16/24/32.  Your TA or instructor will then do an independent assessment, informed by the mentors code review, and assign a grade. If you are unsure about your code following good practice, you are encouraged to complete it early and meet with your mentor, your TA, or another mentor/TA during arranged meeting time or office hours to go over it in advance.
+The components of this grade are listed below. These points cover the basic functionality and code of your Hello World app on the basis of the code review.  The remaining points cover mechanics of the release process (issues, version control, deployment/demos).
 
 **Graded (lab02-T)**: (30 pts) (lab02-T) is your Team grade for lab02.  As part of this grade, each team member should have contributed to a hello world assignment as an individual or as part of a pair by the due date/time of this lab, i.e.  ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
 
-For teams of 6, this part of your grade is 5 points per team member.  For teams of 5, it is 6 points per team member.  Those 5/6 points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab02, your team will earn 5 or 6 points for your contribution towards the whole.
+For teams of 6, this part of your grade is 5 points per team member. For teams of 5, it is 6 points per team member, for teams of 7 it is 4.29 points.  Those points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab02, your team will earn 5 or 6 or 4.29 points for your contribution towards the whole.
 
-This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member complete a hello world assignment as an individual or as part of a pair.   The most important learning goal of the course is to learn to work as a team, supporting one another.
+This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member complete a hello world assignment as an individual or as part of a pair. The most important learning goal of the course is to learn to work as a team, supporting one another.
 
 </div>  
 
@@ -99,12 +99,12 @@ This component of your team grade is designed to encourage each team member to r
 # What *each* "Hello World" branch/pull-request must contain for full credit.
    
 * Each individual or pair should have built a hello world app suitable for your framework.
-* You should have instructions in your read me on what software must be installed in order to deploy your app. 
+* You should have instructions in your ReadMe on what software must be installed in order to deploy your app. 
    A TA, Mentor, or another class member should be able to follow these instructions and successfully deploy your app.
 * The app does not have to have any particular functionality other than what is normal for the framework.  It should display
    either the text "Hello, World", or something similar such as "Welcome to the foobar app" (where "foobar" is the name of your
    team's app.)
-* By functionality normal to the framework, I mean for example:
+* By functionality normal to the framework, we mean for example:
    * If it a "game", there should be a "start game" button, and then after a moment, it displays "game over" with a "play again" button.
    * If it is a mobile app, it should have the most basic UI feature that are expected for the app to be "well-behaved" on the iOS or Android platform.  
    * If it is a webapp, it should be formatted as an HTML page, not just a plain text page with the words "Hello World". (Full navigation can come later, though it's nice if you can include it at this stage.)
@@ -150,8 +150,7 @@ As explained below, each
 
 ## *Each* webapp "Hello, World" branch/pull-request should be deployed
 
-If your app is being deployed as a webapp: you should have have DEPLOYED it so that it runs on a service such as Heroku, 
-Google App Engine, Amazon Web Services, etc. at a stable URL.    The easist platform on which to do this
+If your app is being deployed as a webapp: you should have have DEPLOYED it so that it runs on a service such as Heroku, Google App Engine, Amazon Web Services, etc. at a stable URL. The easiest platform on which to do this
 for Java Spring Boot, and Python Flask is Heroku.   If you don't know how, ask on the slack channel (well in advance, not at the last minute), 
 and mentors and other students can point you to the resources to get started with this.
 
@@ -159,10 +158,10 @@ Put the URL of your running app in the README in your branch.
 
 ## *Each* non-webapp "Hello, World" branch/pull-request should be demoed
 
-If you are NOT doing a webapp, you must set up a time with your mentor, or your TA, to demo your app to them.  You are strongly encouraged to do 
-this BEFORE the lab next Thursday.   The mentors and TAs hold 
-[open lab hours]({{'/info/open_lab_hours/' | relative_url }}) during which you can schedule this demo.    The last opportunity to do this demo
-is during lab on the due date for this assignment, but it may not be possible to fit all of those in, and in that case, regrettably, you may lose the opportunity to do so (and earn the points.)  Please coordinate with your team to
+If you are NOT doing a webapp, you must set up a time with your mentor, or your TA, to demo your app to them. Mobile apps should be demoed deployed on a physical device. You need to do 
+the demonstration BEFORE the lab next Thursday, as next week's Section will be spent doing a team-based Retrospective. The TAs hold 
+office hours and you can arrange meeting times with your mentors during which you can schedule this demo.   The last opportunity to do this demo
+is right after or just before lab on the due date for this assignment, if you can grab your mentor or TA, but it may not be possible to fit all of those in, and in that case, regrettably, you may lose the opportunity to do so (and earn the points.)  Please coordinate with your team to
 get as many of these demos done *before* lab on the due date of this assignment.
 
 If working in a pair, *each* member of the pair should demo the app, to show that they understand how to run it.
@@ -172,7 +171,7 @@ NOTE: If you cannot schedule with your own mentor, you may coordinate on slack b
 # Launching the project
 
 **As a team**, in addition to completing your Hello World apps (as described in more detail below), you should also 
-   * settle on a first user story or set of user stories for your minimum viable product.  
+   * settle on a first user story or set of user stories for your minimum viable product 
    * have created issues to support that story or stories
    * have populated the Kanban board with those
    * have dragged the user stories and issues your team is are working on (immediately after your hello world issues) into the
@@ -184,10 +183,10 @@ NOTE: If you cannot schedule with your own mentor, you may coordinate on slack b
 
 **Graded (lab02-T)**: (lab02-T) is your Team grade for {{page.num}}.  As part of this grade:
 
-* (20 pts) There should be at least one user story in the In-Progress column for your team.  If there is more than one, it is because the user stories for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
+* (20 pts) There should be at least one user story in the In-Progress column for your team. If there is more than one, it is because the issues for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
 * (20 pts) There should be at least one issue under each user story that supports implementing that user story.
 * (30 pts) Each user on the team should be assigned to at least one issue in the in-progress column.   
-   For teams of 6, this part of your grade is 5 points per team member.  For teams of 5, it is 6 points per team member.  
+   For teams of 6, this part of your grade is 5 points per team member.  For teams of 5, it is 6 points per team member, etc. 
 
 This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member be making a contribution to the project.  The most important learning goal of the course is to learn to work as a team, supporting one another.
 
@@ -210,7 +209,7 @@ together on the code.
 What we don't encourage is for Alice and Bob to be assigned to the
 issue, and then Alice and Bob take turns "solo programming" on the
 issue.  That's a way of working but not the one we are encouraging you
-to try.
+to pursue.
 
 # About limiting work in progress
 
@@ -218,7 +217,7 @@ Throughout the rest of the course, up until we wrap things up with the final pro
 * ensure that each team member, at all times, is assigned to at least one in-progress issue
 * limit the number of in-progress issues.  
 
-Being assigned to more than one in-progress issue is occasionally unavoidable, but typically not ideal.    An example of a case where you may be tempted to do it is when you are blocked on an issue (e.g. waiting for someone else to finish something you need).  In that case, you might decide to start another issue so that you are assigned to two in-progress issues at a tine.  
+Being assigned to more than one in-progress issue is occasionally unavoidable, but typically not ideal.  An example of a case where you may be tempted to do it is when you are blocked on an issue (e.g. waiting for someone else to finish something you need). In that case, you might decide to start another issue so that you are assigned to two in-progress issues at a tine.  
 
 But the experience of most teams is that it's best to try not to do this too often.  
 
