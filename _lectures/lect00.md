@@ -1,8 +1,8 @@
 ---
 desc: First day of class
-lecture_date: 2019-01-06 00:00
+lecture_date: 2020-01-06 00:00
 num: lect00
-ready: false
+ready: true
 
 ---
 
@@ -25,10 +25,11 @@ We will do these activities in three groups of 26, by discussion section.
 
 # Handouts
 
-Actually, we handed out ic01 first (these are numbered in the wrong order), and then ic00 only after ic01 was finished.
+We handed out ic00 first, and then ic01 only after ic00 was finished.
 
-* [ic00: Meet your Teammates](https://docs.google.com/document/d/1IgrTSVt1GiRzpXun-g5HIxcJEM2WzPPm7xCJaLmOdWM/edit?usp=sharing)
-* [ic01: Project Idea Sheet](https://docs.google.com/document/d/1YCPNBZbrRj6wTVrDBbHX1gR5CCwpMKXRbzWxBn2TZjY/edit?usp=sharing)
+* [ic00: Project Idea Sheet](https://docs.google.com/document/d/1YCPNBZbrRj6wTVrDBbHX1gR5CCwpMKXRbzWxBn2TZjY/edit?usp=sharing)
+* [ic01: Meet your Teammates](https://docs.google.com/document/d/1IgrTSVt1GiRzpXun-g5HIxcJEM2WzPPm7xCJaLmOdWM/edit?usp=sharing)
+
 
 # Instructor Instructions
 
