@@ -27,8 +27,8 @@ We will do these activities in three groups of 26, by discussion section.
 
 We handed out ic00 first, and then ic01 only after ic00 was finished.
 
-* [ic00: Project Idea Sheet](https://docs.google.com/document/d/1YCPNBZbrRj6wTVrDBbHX1gR5CCwpMKXRbzWxBn2TZjY/edit?usp=sharing)
-* [ic01: Meet your Teammates](https://docs.google.com/document/d/1IgrTSVt1GiRzpXun-g5HIxcJEM2WzPPm7xCJaLmOdWM/edit?usp=sharing)
+* [ic00: Project Idea Sheet](https://docs.google.com/document/d/1qnNLa88lrxln2vjXscEUiIB1qonXCJbmOkQjNiYg_FU/edit?usp=sharing)
+* [ic01: Meet your Teammates](https://docs.google.com/document/d/1R0A2T4M17KnRj60H3VHS99aZg2q7Gf3JSxV-e1Au4G0/edit?usp=sharing)
 
 
 # Instructor Instructions
