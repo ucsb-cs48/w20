@@ -14,13 +14,12 @@ table.hdrLinks * td.curr { font-weight:bold; }
 </style>
 
 <h4>Tobias Höllerer (instructor) — <strong>Office Hours</strong>:</h4>
-
-Tue, 11-12:30pm, and by appointment
-
+*Tue, 11-12:30pm, and by appointment
 
 <h4>Harlan Kringen (TA) — <strong>Office Hours</strong>:</h4>
-
+* Fri, Jan. 24, 10:30am-11:30am, CSIL
+* After that, every Thu, 11:30-12:30, CSIL, and by appointment
 
 <h4>Richa Wadaskar (TA) — <strong>Office Hours</strong>:</h4>
-Wed, 3:30pm-4:30pm, in CSIL, and by appointment
+* Wed, 3:30pm-4:30pm, in CSIL, and by appointment
 
