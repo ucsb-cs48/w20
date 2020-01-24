@@ -10,6 +10,7 @@ ready: true
 Topics: 
 * Scrum Process 
 * User Story Mapping
+* Demo of Scrum Standup and Github Project Kanban Board 
 * Scenario-Based Usability Engineering
 
 
