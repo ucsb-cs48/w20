@@ -50,6 +50,9 @@ The following list is offered as additional clarification of these graded items 
 * In addition, there should be set of issues for creating "Hello World" apps;  There should be one per each team member or pair of team
    members, and each team member or pair should be *assigned* to that issue on the Kanban board.
 
+# Starting Sprint02 
+Some time during or after this Lab Section, you will enter Sprint02. This may be different for each of the teams - it depends on when you do your sprint review and sprint planning meetings. In any case, when you switch over to Sprint02, please create a new team/sprint02 directory in your GitHub and document all your sprint02 meetings in that directory from there on. 
+
 # Conduct a standup meeting (5-10 minutes)
 
 You are encouraged to conduct a standup meeting as a team.
