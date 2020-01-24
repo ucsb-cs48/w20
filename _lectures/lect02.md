@@ -1,6 +1,6 @@
 ---
 desc: User Story Mapping
-lecture_date: 2020-01-13 00:00
+lecture_date: 2020-01-13 14:00
 num: lect02
 ready: true
 
@@ -19,7 +19,7 @@ Topics:
 <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_ScenarioBasedDesign-1.pdf>
 
 
-
+	
 # Background Information: User Story Mapping
 
 * Part 1 (12:12) (Planning): <https://youtu.be/IsuIZaqnIuU>
