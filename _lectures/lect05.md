@@ -1,6 +1,6 @@
 ---
 desc: Software Development Process
-lecture_date: 2020-01-27 14:00
+lecture_date: 2020-01-22 14:00
 num: lect05
 ready: true
 
