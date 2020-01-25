@@ -15,8 +15,8 @@ Topics:
 * Software Development Process: waterfall, spiral, evolutionary: agile/extreme
 
 
-# Class slides (we went until slide 8 in the following:): 
-
+# Class slides: 
+We covered up to slide 8 in the following:
 <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_SoftwareDevelopment.pdf>
 
 # Electronic Handouts:
