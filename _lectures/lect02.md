@@ -1,5 +1,5 @@
 ---
-desc: User Story Mapping
+desc: Scrum Process
 lecture_date: 2020-01-13 14:00
 num: lect02
 ready: true
@@ -8,9 +8,11 @@ ready: true
 
 
 Topics: 
+* User Analysis / Task Analysis - the first two steps of any design process. 
+* User Stories, Personas, Scenarios: the common language of shareholders 
 * Scrum Process 
-* User Story Mapping
 * Demo of Scrum Standup and Github Project Kanban Board 
+* Project group Standups and other Scrum coordination. Preparing Sprint01.
 * Scenario-Based Usability Engineering
 
 
@@ -18,7 +20,8 @@ Topics:
 
 <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_ScenarioBasedDesign-1.pdf>
 
-
+# Electronic Handouts:
+* Scrum – A Breathtakingly Brief and Agile Introduction: <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Scrum.pdf>
 	
 # Background Information: User Story Mapping
 
