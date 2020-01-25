@@ -24,7 +24,7 @@ Topics:
 * Sprint Meetings: <https://ucsb-cs48-w20.slack.com/files/USCNFR2AJ/FSPM40FPB/eos_sprint.pdf>
 * Scrum Artifacts: <https://ucsb-cs48-w20.slack.com/files/USCNFR2AJ/FSZSQS2JU/eos_scrumartifacts.pdf> <br>
 * Brainstorming Links: 
-   * <https://www.isixsigma.com/tools-templates/brainstorming/brainstorming-rules/
+   * <https://www.isixsigma.com/tools-templates/brainstorming/brainstorming-rules/>
    * <https://www.wrike.com/blog/rules-of-brainstorming-managers-guide-producing-great-ideas/>
 * Brain writing: <https://www.canadianbusiness.com/leadership/how-to-neutralize-your-meeting-hijackers/>
 
