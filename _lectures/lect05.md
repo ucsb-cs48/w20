@@ -17,7 +17,7 @@ Topics:
 
 # Class slides: 
 We covered up to slide 8 in the following:
-<https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_SoftwareDevelopment.pdf>
+<https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_SWDevelopment.pdf>
 
 # Electronic Handouts:
 * Typical Github workflow: <https://itnext.io/the-github-development-workflow-fb48d9bb63f9>
@@ -27,6 +27,3 @@ We covered up to slide 8 in the following:
    * <https://www.isixsigma.com/tools-templates/brainstorming/brainstorming-rules/>
    * <https://www.wrike.com/blog/rules-of-brainstorming-managers-guide-producing-great-ideas/>
 * Brain writing: <https://www.canadianbusiness.com/leadership/how-to-neutralize-your-meeting-hijackers/>
-
-
-
