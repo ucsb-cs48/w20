@@ -14,16 +14,10 @@ Topics:
 * Class standup and other Scrum coordination (Sprint02).
 * Software Development Process (cont.): evolutionary, agile/extreme programming
 
-# Choose the right size MVP!
-
-<div style="font-size: 150%; width: 35em; margin-left:auto; margin-right:auto; background-color: #fef; border: 4px solid red; padding:1em;" markdown="1">
-* If it doesn't deliver value ⇒ too small
-* If you can't finish by due date ⇒ too big
-</div>
 
 # MVP Planning
 
-To help your team (as well as your instructional staff) know what you are defining as part of your MVP---which you are delivering two weeks from today
+To help your team (as well as your instructional staff) know what you are defining as part of your MVP---which you are delivering two weeks from Thursday (02/13)
 , we are asking you to do things process/tool wise:
 
 * Create a new column on your Kanban board.  
@@ -48,6 +42,12 @@ You main task in the remaining sprint is to adjust the user stories and issues t
 
 There will be more detail on how to do that in Section.
 
+# Choose the right size MVP!
+
+<div style="font-size: 150%; width: 35em; margin-left:auto; margin-right:auto; background-color: #fef; border: 4px solid red; padding:1em;" markdown="1">
+* If it doesn't deliver value ⇒ too small
+* If you can't finish by due date ⇒ too big
+</div>
 
 # Class slides: 
 We covered the following:
