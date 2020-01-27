@@ -24,14 +24,14 @@ To help your team (as well as your instructional staff) know what you are defini
    * Call it MVP, and put everything (in terms of user stories and issues) from the TODO column that is part of MVP into that column.
    * Leave everything that is NOT part of MVP in the TODO column.
    
-In addition, issues on Github can have tags.  Github creates some predefined tags, but can edit these and add new ones.
+In addition, issues on Github can have labels.  Github creates some predefined labels, but can edit these and add new ones.
 
-* Add a new tag called MVP.
-   * Add that tag to all of the issues that are in the MVP column, as well as any issues that are already in-progress or done
+* Add a new label called MVP.
+   * Add that label to all of the issues that are in the MVP column, as well as any issues that are already in-progress or done
       that are part of your MVP.
  
-Finally, while regular cards cannot be given "tags" in the same way that issues are, you can just use the letters `(MVP)` in parens
-as a kind of tag on the user stories that are part of your MVP.
+Finally, while regular cards cannot be given "labels" in the same way that issues are, you can just use the letters `(MVP)` in parens
+as a kind of label on the user stories that are part of your MVP.
 
 In this way, anyone can look at your Kanban board, and see:
 * What is, and what is not part of your MVP
