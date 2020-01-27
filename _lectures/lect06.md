@@ -10,7 +10,7 @@ ready: false
 Topics: 
 * Announcements: Reminder: Logging meetings in GitHub, Retrospective in Thu Lab (lab03: <https://ucsb-cs48.github.io/w20/lab/lab03/>)
 * Looking ahead: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
-* [README.md template] (https://www.dropbox.com/s/zstnlehndm0nnco/w20_sample_readme.md?dl=0) for your project
+* [README.md template](https://www.dropbox.com/s/zstnlehndm0nnco/w20_sample_readme.md?dl=0) for your project
 * Class standup and other Scrum coordination (Sprint02).
 * Software Development Process (cont.): evolutionary, agile/extreme programming
 
