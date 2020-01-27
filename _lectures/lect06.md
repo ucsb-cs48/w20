@@ -43,60 +43,10 @@ In this way, anyone can look at your Kanban board, and see:
 * What is, and what is not part of your MVP
 * Which user stories and issues are still not started, in progress, or done, with respect to your MVP.
 
-# Deliverables and Grading for {{page.num}}
 
-By the end of due date of this assignment (i.e. {{page.due |  date: "%a, %b %d at %l:%M%p"}}), you should be halfway done
-with delivering a significant number of issues towards your MVP.
+You main task in the remaining sprint is to adjust the user stories and issues that you want to include in the MVP.
 
-Here's what we'll be looking for and grading:
-
-<div class="grade" markdown="1">
-
-**Graded ({{page.num}}-I)**: (20 pts) towards the individual part of your grade for {{page.num}}.   We will be looking to see that you (as an individual)
-are assigned to **at least one issue** that is part of the MVP and that this issue 
-is either in-progress or done by {{page.due |  date: "%a, %b %d at %l:%M%p"}}).
-
-**Graded**: ({{page.num}}-I) (20 pts) towards the individual part of your grade for {{page.num}}.   You earn these points if/when you, by the due date of this assignment (i.e. {{page.due |  date: "%a, %b %d at %l:%M%p"}}):
-
-* The issue/issues to which you are assigned have comments on them with a link to the branch or fork where you are working on the issue.
-* There is evidence of some commit activity showing progress towards the goal
-* There is a discussion in the comments on the issue indicating the progress you are making.  This may include questions, or some boxes on a check
-   off list being checked, etc.
-
-</div>
-
-
-<div class="grade" markdown="1">
-
-**Graded ({{page.num}}-T)**: (30 pts) towards the team part of your grade for {{page.num}}.  
-
-As part of this grade, each team member 
-should be assigned to  **at least one issue** that is part of the MVP and that this issue 
-is either in-progress or done by {{page.due |  date: "%a, %b %d at %l:%M%p"}}).
-
-For teams of 6, this part of your grade is 5 points per team member.  For teams of 6, it is 12 points per team member.  
-
-These points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on the individual portion, 
-your team will earn the points for your contribution towards the whole.  
-
-The most important learning goal of the course is to learn to work as a team, supporting one another, and building the team's success.
-
-</div>  
-
-<div class="grade" markdown="1">
-
-**Graded ({{page.num}}-T)**: (30 pts) towards the team part of your grade for {{page.num}}.  
-
-This part of the team grade is for the mechanics of:
-* naming a retro leader for the lab04 retro and putting a card in the TODO column with their name
-* creating a MVP column on the Kanban board
-* tagging issues with a Github custom issue tag MVP
-* tagging user story cards with `(MVP)`
-</div>  
-
-You main task tonight is to adjust the user stories and issues that you want to include in the MVP.
-
-There is more detail on how to do that below.
+There will be more detail on how to do that in Section.
 
 
 # Class slides: 
