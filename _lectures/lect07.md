@@ -32,6 +32,7 @@ ready: false
 	  * A summary of your design decisions and what they were based on.
 	  * Any implementation difficulties you encountered and how you addressed them.   
   
+  
    Project Presentation:
    Every group has 10 minutes plus Q&A. 
 
