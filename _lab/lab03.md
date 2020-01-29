@@ -155,7 +155,7 @@ As part of this grade, each team member
 should be assigned to  **at least one issue** that is part of the MVP and that this issue 
 is either in-progress or done by {{page.due |  date: "%a, %b %d at %l:%M%p"}}).
 
-For teams of 6, this part of your grade is 5 points per team member.  For teams of 6, it is 12 points per team member.  
+For teams of 6, this part of your grade is 5 points per team member.  For teams of 5, it is 6 points per team member. For teams of 7, it is 4.28 points per team member.   
 
 These points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on the individual portion, 
 your team will earn the points for your contribution towards the whole.  
