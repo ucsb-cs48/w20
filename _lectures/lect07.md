@@ -13,13 +13,13 @@ ready: false
  
 Here is the point percentage breakdown for grading that the TAs and I plan to use for the "Final Product" 35% of the course grade. 
 
-   * 15% Presentation
-   *  5% Idea, and Idea Refinement
-   * 25% Functionality, Quality (Reliability & Polish)
-   * 15% Technical Difficulty Implemented
-   * 20% Implementation
-   * 10% Design Process
-   * 10% Manual
+   	*- 15% Presentation
+   	*-  5% Idea, and Idea Refinement
+   	*- 25% Functionality, Quality (Reliability & Polish)
+   	*- 15% Technical Difficulty Implemented
+   	*- 20% Implementation
+   	*- 10% Design Process
+   	*- 10% Manual
 
 We will cross-reference against both an initial quartiling judgment averaged among the evaluators, and against a ranking stemming from peer-review
  
