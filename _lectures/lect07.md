@@ -48,7 +48,7 @@ We covered the following:
 <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_SWDevelopment.pdf>
 
 ## Electronic Handouts:
-* Retrospective: <https://www.agilealliance.org/glossary/milestone-retrospective/>
+* Retrospective: <https://www.agilealliance.org/glossary/heartbeatretro>, <https://www.agilealliance.org/glossary/milestone-retrospective/>
 * Sprint Meetings: <https://ucsb-cs48-w20.slack.com/files/USCNFR2AJ/FSPM40FPB/eos_sprint.pdf>
 * Scrum Artifacts: <https://ucsb-cs48-w20.slack.com/files/USCNFR2AJ/FSZSQS2JU/eos_scrumartifacts.pdf> <br>
 
