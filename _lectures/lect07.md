@@ -18,7 +18,7 @@ ready: false
    * 15% Technical Difficulty Implemented
    * 20% Implementation
    * 10% Design Process
-   * 10% Manual
+   * 10% Manual<br>
 
    We will cross-reference against both an initial quartiling judgment averaged among the evaluators, and against a ranking stemming from peer-review
  
@@ -30,7 +30,7 @@ ready: false
 	  * All external resources you used / consulted for your project. Documentation of the different stages of your design (see above, with additional material, e.g. sketches, mockups, questionnaires, etc.)
 	  * Evaluation/Testing results (qualitative, quantitative). There should be a description on when and how testing took place, and a presentation of the results. 
 	  * A summary of your design decisions and what they were based on.
-	  * Any implementation difficulties you encountered and how you addressed them.   
+	  * Any implementation difficulties you encountered and how you addressed them.<br>
   
 
    Project Presentation:
