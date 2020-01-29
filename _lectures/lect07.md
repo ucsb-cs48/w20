@@ -7,9 +7,9 @@ ready: false
 ---
 
 
-Topics: 
+## Topics: 
 
-## Announcements: Project Deliverable Grading Component:
+* Announcements: Project Deliverable Grading Component:
  
 Here is the point percentage breakdown for grading that the TAs and I plan to use for the "Final Product" 35% of the course grade. 
 
