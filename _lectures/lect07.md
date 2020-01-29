@@ -1,5 +1,5 @@
 ---
-desc: Software Development Process
+desc: Projects and Retrospective
 lecture_date: 2020-01-29 14:00
 num: lect07
 ready: false
