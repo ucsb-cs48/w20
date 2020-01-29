@@ -8,7 +8,8 @@ ready: false
 
 
 Topics: 
-* Announcements: Project Deliverable Grading Component:
+
+## Announcements: Project Deliverable Grading Component:
  
 Here is the point percentage breakdown for grading that the TAs and I plan to use for the "Final Product" 35% of the course grade. 
 
@@ -42,11 +43,11 @@ Every group has 10 minutes plus Q&A.
 * Software Development Process: waterfall, spiral, evolutionary: agile/extreme
 
 
-# Class slides: 
+## Class slides: 
 We covered the following:
 <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_SWDevelopment.pdf>
 
-# Electronic Handouts:
+## Electronic Handouts:
 * Retrospective: <https://www.agilealliance.org/glossary/milestone-retrospective/>
 * Sprint Meetings: <https://ucsb-cs48-w20.slack.com/files/USCNFR2AJ/FSPM40FPB/eos_sprint.pdf>
 * Scrum Artifacts: <https://ucsb-cs48-w20.slack.com/files/USCNFR2AJ/FSZSQS2JU/eos_scrumartifacts.pdf> <br>
