@@ -19,7 +19,7 @@ ready: false
    * 20% Implementation
    * 10% Design Process
    * 10% Manual 
-   * 
+   
 
    We will cross-reference against both an initial quartiling judgment averaged among the evaluators, and against a ranking stemming from peer-review
  
