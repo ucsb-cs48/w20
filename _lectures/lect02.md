@@ -15,6 +15,9 @@ Topics:
 * Project group Standups and other Scrum coordination. Preparing Sprint01.
 * Scenario-Based Usability Engineering
 
+# Pointers for Mobile and Web Projects:
+	[CS185](https://sites.cs.ucsb.edu/~holl/CS185/)
+	[CS184](https://sites.cs.ucsb.edu/~holl/CS184/)
 
 # Class slides: 
 
