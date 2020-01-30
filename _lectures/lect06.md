@@ -2,7 +2,7 @@
 desc: Minimum Viable Product
 lecture_date: 2020-01-27 14:00
 num: lect06
-ready: false
+ready: true
 
 ---
 
