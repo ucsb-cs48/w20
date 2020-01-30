@@ -18,8 +18,8 @@ ready: false
    * 15% Technical Difficulty Implemented
    * 20% Implementation
    * 10% Design Process
-   * 10% Manual 
-\
+   * 10% Manual  
+<br/>
 
    We will cross-reference against both an initial quartiling judgment averaged among the evaluators, and against a ranking stemming from peer-review
  
