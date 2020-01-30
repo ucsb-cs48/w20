@@ -32,7 +32,7 @@ ready: false
 	  * Evaluation/Testing results (qualitative, quantitative). There should be a description on when and how testing took place, and a presentation of the results. 
 	  * A summary of your design decisions and what they were based on.
 	  * Any implementation difficulties you encountered and how you addressed them.  
-  
+<br/>
 
    Project Presentation:
    Every group has 10 minutes plus Q&A. 
