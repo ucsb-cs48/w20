@@ -16,8 +16,8 @@ Topics:
 * Scenario-Based Usability Engineering
 
 # Pointers for Mobile and Web Projects:
-	[CS185 - Human-Computer Interaction, S19 used web technologies ](https://sites.cs.ucsb.edu/~holl/CS185/)
-	[CS184 - Introduction to Mobile Application Development (using Android)](https://sites.cs.ucsb.edu/~holl/CS184/)
+  * [CS185 - Human-Computer Interaction, S19 used web technologies](https://sites.cs.ucsb.edu/~holl/CS185/)
+  * [CS184 - Introduction to Mobile Application Development (using Android)](https://sites.cs.ucsb.edu/~holl/CS184/)
 
 # Class slides: 
 
