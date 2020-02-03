@@ -21,15 +21,13 @@ ready: false
 * Class standup and other Scrum coordination.
 
 
-
 # Class slides: 
 We covered the following:
 <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_Patterns.pdf>
 
 # Materials:
-* : <https://commonmark.org/help/>
-* Minimum Viable Product: <https://en.wikipedia.org/wiki/Minimum_viable_product>
-* Hierarchy of Needs: <https://sites.cs.ucsb.edu/~holl/CS48/handouts/HierarchyOfNeeds.pdf> 
+* ToDoMVC: <http://todomvc.com/> 
+* [Real-World Comparison and Benchmark of FrontEnd Web Frameworks](https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/)
 	
 	
 # Background Information: Code Smells
