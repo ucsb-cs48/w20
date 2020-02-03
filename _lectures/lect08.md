@@ -28,6 +28,7 @@ We covered the following:
 # Materials:
 * ToDoMVC: <http://todomvc.com/> 
 * [Real-World Comparison and Benchmark of FrontEnd Web Frameworks](https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/)
+* Anti-Patterns
 	
 	
 # Background Information: Code Smells
