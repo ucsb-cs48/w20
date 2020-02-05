@@ -41,7 +41,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
    * Every team member is assigned to  **at least one issue** that is part of the MVP and that this issue is either in-progress or done
    * retro1.md documentation was logged as described on last week's lab, including definition of an experiment
    * everyone submitted a retro evaluation form   
-
+<br/>
 
 * Complete, or schedule a meeting for, the sprint planning (generating/updating user stories, issues) for a successful MVP delivery ONE week from tonight. Reminder: Your MVP should deliver actual value to the end user
 * Decide when to hold your next retrospective and put a card for it in the TODO column
@@ -63,7 +63,7 @@ To document your MVP release --- which you are delivering one weeks from today -
 
    
    
-   
+<br/>   
 
 Here's what we'll be looking for and grading:
 
