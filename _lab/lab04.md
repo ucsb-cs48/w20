@@ -59,8 +59,11 @@ To document your MVP release --- which you are delivering one weeks from today -
 # Getting Started with Github Actions: 
 
 * Read through and follow the steps in the [Github Actions documentation](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/getting-started-with-github-actions)
-* Define and execute at least one simple (but meaningful) custom workflow
+* Define and demonstrate at least one simple (but meaningful) custom workflow
 
+   
+   
+   
 
 Here's what we'll be looking for and grading:
 
@@ -69,11 +72,12 @@ Here's what we'll be looking for and grading:
 **Graded**: 
 
 * ({{page.num}}) (10 pts) Next Retrospective scheduled and put on a card in Kanban ToDo column
-* ({{page.num}}) (20 pts) Pre-MVP Sprint Planning Meeting took place and was documented in TEAM folder 
+* ({{page.num}}) (10 pts) Pre-MVP Sprint Planning Meeting took place and was documented in TEAM folder 
 * ({{page.num}}) (50 pts) README.md file was updated for your project with
    * all the section from the template filled in (20)
    * reproducible installation instructions that let a novice user build the MVP distro from scratch, simply by following instructions (30)
 * ({{page.num}}) (20 pts) Acceptance tests were authored and logged for all your MVP user stories
+* ({{page.num}}) (20 pts) Github Actions: first custom workflow was created and demonstrated
 </div>
 
 
