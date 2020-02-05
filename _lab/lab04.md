@@ -50,7 +50,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 To document your MVP release --- which you are delivering one weeks from today --- your repository should have a complete README.md file:
 
-* Adapt [this template](https://github.com/ucsb-cs48-w20/classMaterials/blob/master/README.md) to document your project. 
+* Adapt [this README.md template](https://github.com/ucsb-cs48-w20/classMaterials/blob/master/README.md) to document your project. 
 
 * Specifically, list and test the complete installation instructions for checking out and building your project from scratch on a new device.
 
