@@ -40,7 +40,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
    * tagging user story cards with `(MVP)`
    * Every team member is assigned to  **at least one issue** that is part of the MVP and that this issue is either in-progress or done
    * retro1.md documentation was logged as described on last week's lab, including definition of an experiment
-   * everyone submitted a retro evaluation form 
+   * everyone submitted a retro evaluation form   
 
 
 * Complete, or schedule a meeting for, the sprint planning (generating/updating user stories, issues) for a successful MVP delivery ONE week from tonight. Reminder: Your MVP should deliver actual value to the end user
