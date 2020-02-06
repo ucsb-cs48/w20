@@ -2,10 +2,10 @@
 desc: Mentor instructions for lab01
 github_org: ucsb-cs48-w19
 layout: lab
-mentor_due: 2020-02-09 17:00
+mentor_due: 2020-02-02 23:59
 num: lab01_mentors
-ready: false
-ta_due: 2020-02-12 17:00
+ready: true
+ta_due: 2020-02-07 18:00
 
 ---
 
