@@ -146,11 +146,11 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
 
 1. Please create a private github repo under the course organization {{site.org}} that follows the following naming convention, with the team name of the team that you reviewed (not your own team).   Create it with a README.md only
 
-| 4pm-MsgOrg_REVIEWS | 5pm-Rideshare_REVIEWS | 6pm-Climb_REVIEWS
-| 4pm-LaptopComparison_REVIEWS |  5pm-Discord_REVIEWS | 6pm-GauchoShare_REVIEWS
-| 4pm-Tree_REVIEWS | 5pm-Sched_REVIEWS | 6pm-Housing_REVIEWS
-| 4pm-Synth_REVIEWS | 5pm-Game_REVIEWS | 6pm-Spotify_REVIEWS
-| 4pm-GPS_REVIEWS | 5pm-Restroom_REVIEWS  | 
+| 4pm-messageorg_REVIEWS | 5pm-Rideshare_REVIEWS | 6pm-Climb_REVIEWS
+| 4pm-laptops-comparer_REVIEWS |  5pm-discord_REVIEWS | 6pm_gauchoshare_REVIEWS
+| 4pm_tree_REVIEWS | 5pm-schedule-optimization_REVIEWS | 6pm-housing_REVIEWS
+| 4pm-fmsynthesizer_REVIEWS | 5pm-game_REVIEWS | 6pm-Spotify_REVIEWS
+| 4pm-GPS_REVIEWS | 5pm-restroom_REVIEWS  | 
 
    (You may add a .gitignore if it makes things more convenient, but its optional)
    
@@ -178,12 +178,12 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
 
 1. If the reviewer has created the repo below, great.  If not, create it yourself, and add your reviewer as a collaborator.
    Also add everyone on your team as a collaborator.
-
-| 4pm-MsgOrg_REVIEWS | 5pm-Rideshare_REVIEWS | 6pm-Climb_REVIEWS
-| 4pm-LaptopComparison_REVIEWS |  5pm-Discord_REVIEWS | 6pm-GauchoShare_REVIEWS
-| 4pm-Tree_REVIEWS | 5pm-Sched_REVIEWS | 6pm-Housing_REVIEWS
-| 4pm-Synth_REVIEWS | 5pm-Game_REVIEWS | 6pm-Spotify_REVIEWS
-| 4pm-GPS_REVIEWS | 5pm-Restroom_REVIEWS  | 
+   
+| 4pm-messageorg_REVIEWS | 5pm-Rideshare_REVIEWS | 6pm-Climb_REVIEWS
+| 4pm-laptops-comparer_REVIEWS |  5pm-discord_REVIEWS | 6pm_gauchoshare_REVIEWS
+| 4pm_tree_REVIEWS | 5pm-schedule-optimization_REVIEWS | 6pm-housing_REVIEWS
+| 4pm-fmsynthesizer_REVIEWS | 5pm-game_REVIEWS | 6pm-Spotify_REVIEWS
+| 4pm-GPS_REVIEWS | 5pm-restroom_REVIEWS  | 
 
    (You may add a .gitignore if it makes things more convenient, but its optional)
 
