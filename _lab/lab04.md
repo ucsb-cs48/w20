@@ -43,6 +43,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
    * everyone submitted a retro evaluation form   
 <br/>
 
+**New this week:** 
 * Complete, or schedule a meeting for, the sprint planning (generating/updating user stories, issues) for a successful MVP delivery ONE week from tonight. Reminder: Your MVP should deliver actual value to the end user
 * Decide when to hold your next retrospective and put a card for it in the TODO column
 * Designate a pair of Reviewers (Lead Reviewer, Reviewer Note Taker) and a pair of Reviewees in charge (Lead Presenter and Reviewee Note Taker) from your team for next week's MVP Demonstration. Put a card with the names for these four roles in your Kanban ToDo column.  
