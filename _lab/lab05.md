@@ -34,6 +34,28 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 This lab will be all about delivering your Minimum Viable Product. This will give you the opportunity to get early feedback from your mentors, the TAs and instructor, and from your peers. We will put into place a process in which every team designates a set of representatives to evaluate a peer team's MVP. Please take the following guidelines into account: 
 
+In the [previous lab]({{'/lab/lab04/' | relative_url }}), every team designated a pair of Reviewers (Lead Reviewer, Reviewer Note Taker) and a pair of Reviewees in charge (Lead Presenter and Reviewee Note Taker). The other people from every team team stay with their Reviewee leads and will help with the presentation. 
+The following table shows the reviewer-reviewee assignments:       
+
+| Reviewers from this team  | Will review this team's MVP |
+| 4pm-MsgOrg | 4pm-LaptopComparison |
+| 4pm-LaptopComparison | 4pm-Tree |
+| 4pm-Tree | 4pm-Synth | 
+| 4pm-Synth | 4pm-GPS |
+| 4pm-GPS | 4pm-MsgOrg | 
+| | |
+| 5pm-Rideshare | 5pm-Discord | 
+| 5pm-Discord | 5pm-Sched | 
+| 5pm-Sched | 5pm-Game | 
+| 5pm-Game | 5pm-Restroom | 
+| 5pm-Restroom | 5pm-Rideshare | 
+| | | 
+| 6pm-Climb | 6pm-Gauchoshare | 
+| 6pm-Gauchoshare | 6pm-Housing |
+| 6pm-Housing | 6pm-Spotify | 
+| 6pm-Spotify | 6pm-Climb |
+
+
 #  The most helpful attitude and approach for reviewers: friendly helpfulness, not "gotcha"
 
 First, it is important to have the right approach.  You are engaging in this review to *help the other team improve their code*.  This is not an opportunity for showing off or playing "gotcha".  
@@ -122,10 +144,10 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
 
 # FOLLOW UP instructions for Reviewers
 
-1. Please create a private github repo under the course organization {{site.org}} that follows the following naming convention, with the team name of the team that you reviwed (not your own team).   Create it with a README.md only
+1. Please create a private github repo under the course organization {{site.org}} that follows the following naming convention, with the team name of the team that you reviewed (not your own team).   Create it with a README.md only
 
 | 4pm-MsgOrg_REVIEWS | 5pm-Rideshare_REVIEWS | 6pm-Climb_REVIEWS
-| 4pm-LaptopComparison_REVIEWS |  5pm-Discord_REVIEWS | 6pm-BuySell_REVIEWS
+| 4pm-LaptopComparison_REVIEWS |  5pm-Discord_REVIEWS | 6pm-GauchoShare_REVIEWS
 | 4pm-Tree_REVIEWS | 5pm-Sched_REVIEWS | 6pm-Housing_REVIEWS
 | 4pm-Synth_REVIEWS | 5pm-Game_REVIEWS | 6pm-Spotify_REVIEWS
 | 4pm-GPS_REVIEWS | 5pm-Restroom_REVIEWS  | 
@@ -158,7 +180,7 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
    Also add everyone on your team as a collaborator.
 
 | 4pm-MsgOrg_REVIEWS | 5pm-Rideshare_REVIEWS | 6pm-Climb_REVIEWS
-| 4pm-LaptopComparison_REVIEWS |  5pm-Discord_REVIEWS | 6pm-BuySell_REVIEWS
+| 4pm-LaptopComparison_REVIEWS |  5pm-Discord_REVIEWS | 6pm-GauchoShare_REVIEWS
 | 4pm-Tree_REVIEWS | 5pm-Sched_REVIEWS | 6pm-Housing_REVIEWS
 | 4pm-Synth_REVIEWS | 5pm-Game_REVIEWS | 6pm-Spotify_REVIEWS
 | 4pm-GPS_REVIEWS | 5pm-Restroom_REVIEWS  | 
