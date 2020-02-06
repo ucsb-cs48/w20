@@ -38,22 +38,22 @@ In the [previous lab]({{'/lab/lab04/' | relative_url }}), every team designated 
 The following table shows the reviewer-reviewee assignments:       
 
 | **Reviewers from this team:**  | **Will review this team's MVP:** |
-| 4pm-MsgOrg ---------------> | 4pm-LaptopComparison |
+| 4pm-MsgOrg -----------------> | 4pm-LaptopComparison |
 | 4pm-LaptopComparison -> | 4pm-Tree |
-| 4pm-Tree -----------------> | 4pm-Synth | 
-| 4pm-Synth ----------------> | 4pm-GPS |
-| 4pm-GPS ------------------> | 4pm-MsgOrg | 
+| 4pm-Tree ---------------------> | 4pm-Synth | 
+| 4pm-Synth -------------------> | 4pm-GPS |
+| 4pm-GPS --------------------> | 4pm-MsgOrg | 
 | | |
-| 5pm-Rideshare ----------> | 5pm-Discord | 
-| 5pm-Discord --------------> | 5pm-Sched | 
-| 5pm-Sched ----------------> | 5pm-Game | 
-| 5pm-Game -----------------> | 5pm-Restroom | 
-| 5pm-Restroom ----------->   | 5pm-Rideshare | 
+| 5pm-Rideshare ------------> | 5pm-Discord | 
+| 5pm-Discord ----------------> | 5pm-Sched | 
+| 5pm-Sched ------------------> | 5pm-Game | 
+| 5pm-Game -------------------> | 5pm-Restroom | 
+| 5pm-Restroom ------------->   | 5pm-Rideshare | 
 | | | 
-| 6pm-Climb ----------------> | 6pm-Gauchoshare | 
-| 6pm-Gauchoshare -------->   | 6pm-Housing |
-| 6pm-Housing --------------> | 6pm-Spotify | 
-| 6pm-Spotify --------------> | 6pm-Climb |
+| 6pm-Climb --------------------> | 6pm-Gauchoshare | 
+| 6pm-Gauchoshare ---------->   | 6pm-Housing |
+| 6pm-Housing ----------------> | 6pm-Spotify | 
+| 6pm-Spotify -------------------> | 6pm-Climb |
 
 
 #  The most helpful attitude and approach for reviewers: friendly helpfulness, not "gotcha"
