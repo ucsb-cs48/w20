@@ -82,7 +82,7 @@ That's ok.  It's ok to just nod and let it go.
 
 All I'm asking of you is to listen and consider it carefully, and discuss it as a team.  You might decide to discuss it later after the review is over, on the Slack channel.  With a bit of distance in space and time, you may find parts of it you agree with, or really good reasons to go in a different direction from what was suggested. You will document your decisions. 
 
-# Instructors for Reviewers
+# Instructions for Reviewers
 
 As the reviewer, you are from team A, and reviewing the work of team B.
 
