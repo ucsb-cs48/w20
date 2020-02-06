@@ -34,7 +34,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 This lab will be all about delivering your Minimum Viable Product. This will give you the opportunity to get early feedback from your mentors, the TAs and instructor, and from your peers. We will put into place a process in which every team designates a set of representatives to evaluate a peer team's MVP. Please take the following guidelines into account: 
 
-In the [previous lab]({{'/lab/lab04/' | relative_url }}), every team designated a pair of Reviewers (Lead Reviewer, Reviewer Note Taker) and a pair of Reviewees in charge (Lead Presenter and Reviewee Note Taker). The other people from every team team stay with their Reviewee leads and will help with the presentation. 
+In the [previous lab]({{'/lab/lab04/' | relative_url }}), every team designated a pair of Reviewers (Lead Reviewer, Reviewer Note Taker) and a pair of Reviewees in charge (Lead Presenter and Reviewee Note Taker). The other people from every team team stay with their Lead Presenter and Reviewee Note Taker and will help with the presentation. 
 The following table shows the reviewer-reviewee assignments:       
 
 | ** Reviewers from this team: **  | ** Will review this team's MVP: ** |
