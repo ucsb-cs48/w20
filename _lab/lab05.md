@@ -37,7 +37,7 @@ This lab will be all about delivering your Minimum Viable Product. This will giv
 In the [previous lab]({{'/lab/lab04/' | relative_url }}), every team designated a pair of Reviewers (Lead Reviewer, Reviewer Note Taker) and a pair of Reviewees in charge (Lead Presenter and Reviewee Note Taker). The other people from every team team stay with their Lead Presenter and Reviewee Note Taker and will help with the presentation. 
 The following table shows the reviewer-reviewee assignments:       
 
-| **Reviewers from this team:**  | **Will review this team's MVP:** |
+| **Reviewers from this team:**  | **... will review this team's MVP:** |
 | 4pm-MsgOrg -----------------> | 4pm-LaptopComparison |
 | 4pm-LaptopComparison -> | 4pm-Tree |
 | 4pm-Tree ---------------------> | 4pm-Synth | 
