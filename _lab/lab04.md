@@ -62,7 +62,7 @@ To document your MVP release --- which you are delivering one weeks from today -
 # Getting Started with Github Actions: 
 
 * Read through and follow the steps in the [Github Actions documentation](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/getting-started-with-github-actions)
-* Define and demonstrate at least one simple (but meaningful) custom workflow
+* Define and demonstrate at least one simple (but meaningful) custom workflow. You can look through the "Popular continuous integration workflows" section on the Actions ("Get started with GitHub Actions") tab in your repo to get ideas or find starting point templates that fit your project... 
 
    
    
