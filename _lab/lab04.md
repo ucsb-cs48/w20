@@ -57,7 +57,7 @@ To document your MVP release --- which you are delivering one weeks from today -
 
 * Specifically, list and test the complete installation instructions for checking out and building your project from scratch on a new device.
 
-* Log Acceptance Tests for your MVP user story cards
+* Log Acceptance Tests for **all** of your (MVP) user story cards
 
 # Getting Started with Github Actions: 
 
