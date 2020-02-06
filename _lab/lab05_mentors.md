@@ -4,7 +4,7 @@ github_org: ucsb-cs48-w20
 layout: lab
 mentor_due: 2020-03-09 17:00
 num: lab05_mentors
-ready: false
+ready: true
 ta_due: 2020-03-10 12:00
 
 ---
