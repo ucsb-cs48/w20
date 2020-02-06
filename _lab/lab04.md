@@ -76,9 +76,9 @@ Here's what we'll be looking for and grading:
 * ({{page.num}}) (10 pts) Next Retrospective scheduled and put on a card in Kanban ToDo column
 * ({{page.num}}) (10 pts) MVP review roles have been decided and recorded on a card in Kanban ToDo column  
 * ({{page.num}}) (10 pts) Pre-MVP Sprint Planning Meeting took place and was documented in TEAM folder 
-* ({{page.num}}) (40 pts) README.md file was updated for your project with
+* ({{page.num}}) (30 pts) README.md file was updated for your project with
    * all the section from the template filled in (10)
-   * reproducible installation instructions that let a novice user build the MVP distro from scratch, simply by following instructions (30)
+   * reproducible installation instructions that let a novice user build the MVP distro from scratch, simply by following instructions (20)
 * ({{page.num}}) (20 pts) Acceptance tests were authored and logged for all your MVP user stories
 * ({{page.num}}) (20 pts) Github Actions: first custom workflow was created and demonstrated
 </div>
