@@ -1,6 +1,6 @@
 ---
 assigned: 2020-02-06 16:00
-desc: README, Installation instructions, Acceptance Tests, GitHub Actions 
+desc: README w. Installation Instructions, Acceptance Tests, GitHub Actions 
 due: 2020-02-13 19:00
 github_org: ucsb-cs48-w20
 layout: lab
