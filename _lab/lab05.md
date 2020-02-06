@@ -42,7 +42,7 @@ The following table shows the reviewer-reviewee assignments:
 | 4pm-LaptopComparison -> | 4pm-Tree |
 | 4pm-Tree ------------------------> | 4pm-Synth | 
 | 4pm-Synth --------------------> | 4pm-GPS |
-| 4pm-GPS ---------------------> | 4pm-MsgOrg | 
+| 4pm-GPS ----------------------> | 4pm-MsgOrg | 
 | | |
 | 5pm-Rideshare --------------> | 5pm-Discord | 
 | 5pm-Discord ------------------> | 5pm-Sched | 
@@ -53,7 +53,7 @@ The following table shows the reviewer-reviewee assignments:
 | 6pm-Climb ----------------------> | 6pm-Gauchoshare | 
 | 6pm-Gauchoshare ------------>   | 6pm-Housing |
 | 6pm-Housing ------------------> | 6pm-Spotify | 
-| 6pm-Spotify ------------------------> | 6pm-Climb |
+| 6pm-Spotify -----------------------> | 6pm-Climb |
 
 
 #  The most helpful attitude and approach for reviewers: friendly helpfulness, not "gotcha"
