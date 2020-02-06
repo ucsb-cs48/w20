@@ -45,6 +45,8 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 * Complete, or schedule a meeting for, the sprint planning (generating/updating user stories, issues) for a successful MVP delivery ONE week from tonight. Reminder: Your MVP should deliver actual value to the end user
 * Decide when to hold your next retrospective and put a card for it in the TODO column
+* Designate a pair of Reviewers (Lead Reviewer, Reviewer Note Taker) and a pair of Reviewees in charge (Lead Presenter and Reviewee Note Taker) from your team for next week's MVP Demonstration. Put a card with the names for these four roles in your Kanban ToDo column.  
+
 
 # What you need to finish over the next week, to be demonstrated as part of your MVP release: 
 
@@ -72,9 +74,10 @@ Here's what we'll be looking for and grading:
 **Graded**: 
 
 * ({{page.num}}) (10 pts) Next Retrospective scheduled and put on a card in Kanban ToDo column
+* ({{page.num}}) (10 pts) MVP review roles have been decided and recorded on a card in Kanban ToDo column  
 * ({{page.num}}) (10 pts) Pre-MVP Sprint Planning Meeting took place and was documented in TEAM folder 
-* ({{page.num}}) (50 pts) README.md file was updated for your project with
-   * all the section from the template filled in (20)
+* ({{page.num}}) (40 pts) README.md file was updated for your project with
+   * all the section from the template filled in (10)
    * reproducible installation instructions that let a novice user build the MVP distro from scratch, simply by following instructions (30)
 * ({{page.num}}) (20 pts) Acceptance tests were authored and logged for all your MVP user stories
 * ({{page.num}}) (20 pts) Github Actions: first custom workflow was created and demonstrated
