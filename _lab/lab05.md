@@ -32,14 +32,14 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 <BR/>
 
 
-This lab will be all about delivering your Minimum Viable Product. This will give you the opportunity to get early feedback from your mentors, the TAs and instructor, and from your peers. We will put into place a process in which every team designates a set of representatives to evaluate a peer team's MVP. Please take the following guidelines into account: 
+This lab will be all about delivering your Minimum Viable Product. This will give you the opportunity to get early feedback from your mentors, the TAs and instructor, and from your peers. We put into place a process in which every team designates a set of representatives to evaluate a peer team's MVP. Please take the following guidelines into account: 
 
 In the [previous lab]({{'/lab/lab04/' | relative_url }}), every team designated a pair of Reviewers (Lead Reviewer, Reviewer Note Taker) and a pair of Reviewees in charge (Lead Presenter and Reviewee Note Taker). The other people from every team team stay with their Lead Presenter and Reviewee Note Taker and will help with the presentation. 
 The following table shows the reviewer-reviewee assignments:       
 
 | **Reviewers from this team:**  | **... will review this team's MVP:** |
 | 4pm-MsgOrg ------------------> | 4pm-LaptopComparison |
-| 4pm-LaptopComparison -> | 4pm-Tree |
+| 4pm-LaptopComparison --> | 4pm-Tree |
 | 4pm-Tree ------------------------> | 4pm-Synth | 
 | 4pm-Synth --------------------> | 4pm-GPS |
 | 4pm-GPS ----------------------> | 4pm-MsgOrg | 
@@ -53,7 +53,7 @@ The following table shows the reviewer-reviewee assignments:
 | 6pm-Climb ----------------------> | 6pm-Gauchoshare | 
 | 6pm-Gauchoshare ------------>   | 6pm-Housing |
 | 6pm-Housing ------------------> | 6pm-Spotify | 
-| 6pm-Spotify -----------------------> | 6pm-Climb |
+| 6pm-Spotify ----------------------> | 6pm-Climb |
 
 
 #  The most helpful attitude and approach for reviewers: friendly helpfulness, not "gotcha"
