@@ -29,6 +29,8 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 </table>
 
 </div>
+<BR/>
+
 
 This lab will be all about delivering your Minimum Viable Product. This will give you the opportunity to get early feedback from your mentors, the TAs and instructor, and from your peers. We will put into place a process in which every team designates a set of representatives to evaluate a peer team's MVP. Please take the following guidelines into account: 
 
