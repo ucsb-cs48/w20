@@ -70,7 +70,7 @@ Don't mock or criticize---be helpful and constructive.   If you have knowledge o
 
 For reviewees, it can be really tough to be out front representing your team as another team's representative goes through your product inside and out.  There is a natural human tendency to become defensive.
 
-It may be helpful to resisit this urge.
+It may be helpful to resist this urge.
 
 ## What if we disagree with the reviewer's assesssment?
 
