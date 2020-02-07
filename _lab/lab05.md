@@ -96,13 +96,13 @@ Present, there should be:
 1.  Start by making sure that you and your helper from team A are added to the slack for team B.
 
 
-2.  On the slack, make a note of everyone present at the review from both teams.  Any members of team B that are missing, hopefully are missing because they are engaged in the review  of another group's product.)
+2.  On the slack, make a note of everyone present at the review from both teams.  Any members of team B that are missing hopefully are missing because they are engaged in the review  of another group's product.
     
-2.  Then, start by sitting at the lead reviewee from team B's computer, where lead reviewee from team B has the product up and running.
+2.  Then, start by sitting around the computer that team B's lead presenter chose to demo the product. The lead presenter from team B has the product up and running.
 
-3.  Ask the lead reviewee to walk you through the features of the product, as YOU, leader reviewer from team A, control the mouse and keyboard.    You, the lead reviewer should be going through the features of the product, led by an explanation of the reviewee from team B.  
+3.  Ask the lead presenter to walk you through the features of the product, as YOU, leader reviewer from team A, control the mouse and keyboard or tablet/phone touchscreen.  You, the lead reviewer should be going through the features of the product, led by an explanation from the team B presenter.  
 
-    As you notice things you like, and things that could be improved, say them out loud.  Both the person from team A and the person from team B should be noting these things on the Slack.    The person from Team A should simply make notes about your observations.  The person from team B may go a step further, and note what the team might do in response (e.g. add issues, add user stories, add bug fixes, etc.)
+    As you notice things you like, and things that could be improved, say them out loud.  Both, the Scribe from team A and the Scribe from team B should be noting these things on the Slack.   The Scribe from team A should simply make notes about your observations.  The Scribe from team B may go a step further, and note what the team might do in response (e.g. add issues, add user stories, add bug fixes, etc.)
     
 4.  When you have gone through the product demo, now go to your OWN computer.   Pull up the Kanban board.
 
