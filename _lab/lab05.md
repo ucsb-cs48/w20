@@ -68,7 +68,7 @@ Don't mock or criticize---be helpful and constructive.   If you have knowledge o
 
 # The most helpful attitude for reviewees: gratitude, not defensiveness.
 
-For reviewees, it can be really tough to be out front represnting your team as another team's representative goes through your product inside and out.  THere is a natural human tendency to become defensive.
+For reviewees, it can be really tough to be out front representing your team as another team's representative goes through your product inside and out.  THere is a natural human tendency to become defensive.
 
 It may be helpful to resisit this urge.
 
