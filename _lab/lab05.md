@@ -96,7 +96,7 @@ Present, there should be:
 1.  Start by making sure that you and your helper from team A are added to the slack for team B.
 
 
-2.  On the slack, make a note of everyone present at the review from both teams.  Any members of team B that are missing, hopefully are missing becuse they are engaged in the reciprocal review of A's product.)
+2.  On the slack, make a note of everyone present at the review from both teams.  Any members of team B that are missing, hopefully are missing because they are engaged in the review  of another group's product.)
     
 2.  Then, start by sitting at the lead reviewee from team B's computer, where lead reviewee from team B has the product up and running.
 
