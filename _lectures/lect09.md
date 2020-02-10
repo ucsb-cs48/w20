@@ -9,7 +9,7 @@ ready: true
 
 # Announcements
 * MVP due on Feb. 13: [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
-* README.md no a for-points requirement in lab05
+* README.md now a for-points requirement in lab05
 * No new homework for the moment. Concentrate on your team's MVP deliverable! 
 
 
