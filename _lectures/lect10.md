@@ -32,6 +32,8 @@ We covered the following on Unit Testing
 * [JavaScript Unit Testing Options](https://areknawo.com/lets-talk-js-unit-testing/)
 * [Testing with React](https://reactjs.org/docs/testing.html)
 * [Travis CI with Firebase + React](https://codeburst.io/learning-travis-ci-with-firebase-react-part-1-988e3788c097)
+* [Android w. Firebase TDD (Note: this is from 2017, before MVVM was seriously pushed by JetBrains/Google)](https://www.ustwo.com/blog/faster-testing-with-firebase)
+* [TDD Firebase Cloud Functions](https://howtofirebase.com/test-driven-cloud-functions-fea53c64110c)
 * [C# and Unity](https://docs.unity3d.com/Manual/testing-editortestsrunner.html)
 * [Android TDD Tutorial](https://www.raywenderlich.com/7109-test-driven-development-tutorial-for-android-getting-started)
 * [IOS test-driven development](https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started)
