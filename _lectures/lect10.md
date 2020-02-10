@@ -27,8 +27,7 @@ We covered the following on Unit Testing
 
 
 # Materials:
-* [The Testing Introduction I Wish I Had](https://dev.to/maxwell_dev/the-testing-introduction-i-wish-i-had-2dn)
-*    
+* [Javascript TDD: The Testing Introduction I Wish I Had](https://dev.to/maxwell_dev/the-testing-introduction-i-wish-i-had-2dn)
 * [JavaScript Unit Testing Options](https://areknawo.com/lets-talk-js-unit-testing/)
 * [Testing with React](https://reactjs.org/docs/testing.html)
 * [Travis CI with Firebase + React](https://codeburst.io/learning-travis-ci-with-firebase-react-part-1-988e3788c097)
