@@ -23,8 +23,8 @@ ready: false
 
 # Class slides: 
 We covered the following on Unit Testing
-<https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_UnitTesting-1.pdf>
-<https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_UnitTesting-2.pdf>
+* <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_UnitTesting-1.pdf>
+* <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_UnitTesting-2.pdf>
 
 # Materials (will move to new Slack channels):
 * Javascript
