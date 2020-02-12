@@ -38,7 +38,7 @@ We covered the following on Unit Testing
    * [Android w. Firebase TDD (Note: this is from 2017, before MVVM was seriously pushed by JetBrains/Google)](https://www.ustwo.com/blog/faster-testing-with-firebase)
 * Firebase
    * [TDD Firebase Cloud Functions](https://howtofirebase.com/test-driven-cloud-functions-fea53c64110c)
-* IOS*
+* IOS
    * [IOS test-driven development](https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started)
 * Unity
    * [C# and Unity](https://docs.unity3d.com/Manual/testing-editortestsrunner.html)
