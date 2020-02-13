@@ -93,7 +93,7 @@ Present, there should be:
 * Someone from team B to take notes on the Slack
 * The mentor for team B.
 
-1.  Start by making sure that you and your helper from team A are added to the slack for team B.
+1.  Start by making sure that you and your helper from team A are added to the slack for team B. Also, the lead reviewer will have to be (at least temporarily) added to the repo, if it is private (for Steps 4 and 5 below).
 
 
 2.  On the slack, make a note of everyone present at the review from both teams.  Any members of team B that are missing hopefully are missing because they are engaged in the review  of another group's product.
@@ -114,9 +114,9 @@ Present, there should be:
 
     Go through it and make sure it doesn't have any "TODO" items in it.  If it does, comment on those, and note that they should perhaps be addressed.  
     
-    Finally, on your OWN computer, try to clone the repo, and follow the steps needed to get the application up and running.
+    Finally, on your OWN computer, try to clone the repo, and follow the steps needed to get the application up and running. 
     
-    You should NOT need any credentials from the original team---if there is a database setup needed, you should BE ABLE TO DO THAT DATABASE SET UP YOURSELF by following the instructions in the README.md.  If that is not possible, then note this as one of the observations.    At any point that you are stuck and cannot continue, as a last resort, the reviewee can jump in and help, by guiding you through the process, but NOT by providing you database credentials or API credentials--only by walking you through the process of setting up your own.
+    You should NOT need any additional credentials from the original team---if there is a database setup needed, you should BE ABLE TO DO THAT DATABASE SET UP YOURSELF by following the instructions in the README.md.  If that is not possible, then note this as one of the observations.    At any point that you are stuck and cannot continue, as a last resort, the reviewee can jump in and help, by guiding you through the process, but NOT by providing you database credentials or API credentials--only by walking you through the process of setting up your own.
     
 6.  [OPTIONAL IF TIME] If you are successful in setting up the project, and you get this far: start looking through the code for places you can make suggestions for improvement, or offer words of praise.  Most reviewers won't get this far.    
     
