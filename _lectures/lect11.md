@@ -2,7 +2,7 @@
 desc: Unit Testing <2>
 lecture_date: 2020-02-12 14:00
 num: lect11
-ready: false
+ready: true
 
 ---
 

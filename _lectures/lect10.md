@@ -2,7 +2,7 @@
 desc: Unit Testing
 lecture_date: 2020-02-10 14:00
 num: lect10
-ready: false
+ready: true
 
 ---
 
@@ -23,7 +23,7 @@ ready: false
 
 # Class slides: 
 We covered the following on Unit Testing
-<https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_UnitTesting.pdf>
+<https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_UnitTesting-1.pdf>
 
 
 # Materials:
