@@ -229,7 +229,7 @@ After lab tasks for the following team members are coming soon.  For now, work o
 * ({{page.num}}) (40 pts) Unit and/or integration tests are present on the master branch of the repo
 * ({{page.num}}) (10 pts) A Sprint Planning meeting took place, documented in your GitHub team folder
 * ({{page.num}}) (20 pts) A Retro was held, and there is a record of that retro in the teams `_RETRO` repo, with a discussion of the last sprint's experiment, and the current sprint's experiment.
-* ({{page.num}}) (10 pts) Team has filled out the second retro follow up survey.
-* ({{page.num}}) (10 pts) All Team members have filled out the team peer evaluation form for this week.
+* ({{page.num}}) (10 pts) All team members have filled out the second retro follow up survey (pro-rated by number of responses).
+* ({{page.num}}) (10 pts) All team members have filled out the team peer evaluation form for this week (pro-rated by number of responses).
 
 </div>
