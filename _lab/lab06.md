@@ -41,7 +41,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
     * your next retro (45 minutes)
     * your next sprint planning meeting (at least 45 minutes).
 
-    Note that these should be at a time/place that your mentor can attend.
+    Note that the retro should be at a time/place that your mentor can attend.
 
     Record the time/place(s) on cards in the TO-DO column on your Kanban board.
     
@@ -57,10 +57,10 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
     Then, discuss the list of roles below and assign one team member to each of the roles.
 
     There are more than six total roles now (four old ones and seven new ones), so some people will have
-    to be assigned to more than one role.    That's fine, but follow these rules:
+    to be assigned to more than one role. That's fine, but follow these rules:
 
     * The product owner and the scrum master *may not* be the same person, and
-    * The retro leaders for each of the three retros in the quarter should be different people.
+    * The retro leaders for each of at least three retros in the quarter should be different people.
     * No one should take on three roles unless/until each team member has already taken on two.
 
     If you have a situation where it is impossible to satisfy all of these rules, check with your mentor;
@@ -95,17 +95,17 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
     * **Final presentation leader (week 9/10).**  This person will give the final class presentation during week 9/10.
     * **Retro leader (lab09).**  This person will lead a retro during week 9.   
 
-4. (20 minutes) Your mentor will now do a review of your product similar to the one that you did last week during
+4. (20 minutes) Your mentor will now do a discussion with you about your product building on the MVP demo that you did last week during
     lab05, but in an accelerated fashion, looking only at the product from a user standpoint, the README.md,
-    and the code.
+    and the code, and identifying the path forward. 
 
-    * Your same "reviewee" from last week should set up the application for the mentor to run themselves.
+    * Your same "lead presenter" from last week should be prepared to set up the application for the mentor to run themselves if desired.
     * ALL other team members should listen and take
       notes on the slack, with particular emphasis on their respective new roles
       (product owner, scrum master, etc.)
 
     Mentors, you have discretion to use the 20 minutes as you see fit, focusing on any/all of these.
-    * The product from a user standpoint
+    * The product from a user standpoint and the road ahead to a final product. 
     * Whether the README.md has clear instructions to configure and run the product from its source codeN
     * The quality of the code itself
 
@@ -115,8 +115,8 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 ## ALL STUDENTS
 
 * attend and participate in your retro
-* fill out the retro survey (see the #retro channel on the slack for the link)
-* fill out the teamwork survey (see the #retro channel on the slack for the link)
+* fill out the retro survey (see the slack for the link)
+* fill out the teamwork survey (see the slack for the link)
 
 ## Retro Leader Followup
 
@@ -177,9 +177,9 @@ You may use this Markdown template for the contents of `/teams/ROLES.md` to prod
 | Role                             |   Name              |
 |----------------------------------|---------------------|   
 | First presentation               |                     |
-| First Retro Leader (lab04)       |                     |
-| Reviewer (lab05)                 |                     |
-| Reviewee (lab05)                 |                     |
+| First Retro Leader (lab03)       |                     |
+| Lead Reviewer (lab05)            |                     |
+| Lead Reviewee (lab05)            |                     |
 | Mid-Course Retro Leader (lab06)  |                     |
 | Testing Coordinator (lab06)      |                     |
 | Product Owner (lab06)            |                     |
@@ -190,29 +190,27 @@ You may use this Markdown template for the contents of `/teams/ROLES.md` to prod
 | Retro Leader (lab09)             |                     |
 ```
 
-# Reviewer from lab05
+# Lead Reviewer from lab05
 
 See instructions at the end of lab05.   
 
-# Reviewee from lab05
+# Lead Reviewee from lab05
 
 See instructions at the end of lab05.   
 
 # Testing Coordinator
 
-Review this article on Acceptance Criteria: <https://ucsb-cs48.github.io/topics/testing_acceptance/> which includes
-the template used in the guest lecture by [Jason, Amir and Heidi from Procore](https://ucsb-cs48.github.io/w19/lectures/lect11/).
-
+Review this article on Acceptance Criteria: <https://ucsb-cs48.github.io/topics/testing_acceptance/>.
 Then go through all of your issues for the `final` sprint, and add acceptance criteria.
 
 Then, determine how to:
 * Create unit tests within the technology stack you are using (e.g. `unittest` or `pytest` for Python, `mocha` for node, etc.)
-* Set up Continuous Integration using Travis-CI
+* Set up Continuous Integration using GitHub Actions (or, in exceptional cases in coordination with your mentors)
 
 Then:
-* Set up at least one unit test by next Thursday night in a branch, and then do a pull request to put that test in your master branch 
-* Set up Travis-Ci for the master branch of your repo
-* Add a Travis-Ci badge in the README.md of your repo, at the very top.
+* Set up unit tests for your current code base by next Thursday night in a branch, and then do a pull request to put that test in your master branch 
+* Set up Github Actions for the master branch of your repo
+* Add Github Actions documentation/trigger the README.md of your repo, at the very top.
 
 
 ## Other team members
@@ -227,9 +225,11 @@ After lab tasks for the following team members are coming soon.  For now, work o
 
 **Graded**: 
 
-* ({{page.num}}) (20 pts) Markdown template with list of roles is posted in `/team/ROLES.md` in Master branch of repo.
-* ({{page.num}}) (20 pts) Unit and/or integration tests are present on the master branch of the repo
-* ({{page.num}}) (20 pts) A Sprint Planning meeting took place
+* ({{page.num}}) (10 pts) Markdown template with list of roles is posted in `/team/ROLES.md` in Master branch of repo.
+* ({{page.num}}) (40 pts) Unit and/or integration tests are present on the master branch of the repo
+* ({{page.num}}) (10 pts) A Sprint Planning meeting took place, documented in your GitHub team folder
 * ({{page.num}}) (20 pts) A Retro was held, and there is a record of that retro in the teams `_RETRO` repo, with a discussion of the last sprint's experiment, and the current sprint's experiment.
-* ({{page.num}}) (20 pts) Team has filled out the second retro follow up survey.
+* ({{page.num}}) (10 pts) Team has filled out the second retro follow up survey.
+* ({{page.num}}) (10 pts) All Team members have filled out the team peer evaluation form for this week.
+
 </div>
