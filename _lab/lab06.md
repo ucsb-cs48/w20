@@ -136,7 +136,7 @@ During the retro
 After the retro
 * Post about the experiment on the slack
 * Record the experiment in the RETRO repo (same instructions as for the previous retro)
-* Remind team to fill out retro survey (the instructor posted the link in the Slack "retros" channel)
+* Remind team to fill out [the retro survey](https://docs.google.com/forms/d/e/1FAIpQLSdqQm4MKeT2IC3F4F5xN4CMogl1t-0QtcK1VCGABodLjcTbyA/viewform)
 * PLUS all team members should fill out the teamwork survey #1
 
 ## Product Owner / Scrum Master Followup
@@ -229,7 +229,7 @@ After lab tasks for the following team members are coming soon.  For now, work o
 * ({{page.num}}) (40 pts) Unit and/or integration tests are present on the master branch of the repo
 * ({{page.num}}) (10 pts) A Sprint Planning meeting took place, documented in your GitHub team folder
 * ({{page.num}}) (20 pts) A Retro was held, and there is a record of that retro in the teams `_RETRO` repo, with a discussion of the last sprint's experiment, and the current sprint's experiment.
-* ({{page.num}}) (10 pts) All team members have filled out the second retro follow up survey (pro-rated by number of responses).
+* ({{page.num}}) (10 pts) All team members have filled out the [second retro follow up survey](https://docs.google.com/forms/d/e/1FAIpQLSdqQm4MKeT2IC3F4F5xN4CMogl1t-0QtcK1VCGABodLjcTbyA/viewform) (pro-rated by number of responses).
 * ({{page.num}}) (10 pts) All team members have filled out the team peer evaluation form for this week (pro-rated by number of responses).
 
 </div>
