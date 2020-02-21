@@ -49,7 +49,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 3.  (10 minutes) On the slack channel, remind yourselves who took on these four roles, and record
     it on the channel:
 
-    * First presentation 
+    * Initial Product Owner 
     * First Retro Leader (lab04)
     * Reviewer (lab05)          
     * Reviewee (lab05)          
@@ -176,7 +176,7 @@ You may use this Markdown template for the contents of `/teams/ROLES.md` to prod
 ```
 | Role                             |   Name              |
 |----------------------------------|---------------------|   
-| First presentation               |                     |
+| Initial product owner            |                     |
 | First Retro Leader (lab03)       |                     |
 | Lead Reviewer (lab05)            |                     |
 | Lead Reviewee (lab05)            |                     |
