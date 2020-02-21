@@ -186,7 +186,7 @@ You may use this Markdown template for the contents of `/teams/ROLES.md` to prod
 | Scrum Master (lab06)             |                     |
 | UX Coordinator (lab06)           |                     |
 | Documentation Coordinator (lab06)|                     |
-| Final presentation (week 9/10)   |                     |
+| Final presentation lead (wk 9/10)|                     |
 | Retro Leader (lab09)             |                     |
 ```
 
