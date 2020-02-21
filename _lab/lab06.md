@@ -89,10 +89,10 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
     * **UX Coordinator**.  Responsible for the look and feel of the product, and the way that the user interacts with the
       product.   By next week, will have a set of recommendations for the final UI/UX of the product in support
       of the user stories that emerge from the Sprint Plannig Meeting
-    * **Documentation Coordinator **  This person is responsible for the project documentation, chiefly the README.md file.
+    * **Documentation Coordinator**  This person is responsible for the project documentation, chiefly the README.md file.
       By next week (lab07), they should have given it a thorough update, and will be responsible for updating it
       throughout the rest of the quarter.
-    * **Final presentation leader (week 9/10).**  This person will be in charge coordinating the final class presentation during week 9/10. The presentation itself may have multiple presenters, but the leader ensures everyone is prepared and everything goes smoothly with demos and A/V setup.
+    * **Final presentation leader (week 9/10)**  This person will be in charge coordinating the final class presentation during week 9/10. The presentation itself will likely have multiple presenters, but the leader ensures everyone is prepared and everything goes smoothly with demos and A/V setup.
     * **Retro leader (lab09).**  This person will lead a retro during week 9.   
 
 4. (20 minutes) Your mentor will now do a discussion with you about your product building on the MVP demo that you did last week during
