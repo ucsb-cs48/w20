@@ -23,8 +23,8 @@ ready: false
 # Class slides: 
 We covered the following on Software Design and UML:
 <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_DesignAndUML.pdf>
-We covered the following on User Evaluation:
-<https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_DesignAndUML.pdf>
+We covered up to slide 6 in the following slide set on User Evaluation:
+<https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_UserEvaluation.pdf>
 
 
 # Materials:
