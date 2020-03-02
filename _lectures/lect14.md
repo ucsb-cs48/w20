@@ -1,21 +1,26 @@
 ---
 desc: Industry Methodology (Guest Lecture by AppFolio Team)
-lecture_date: 2020-02-26 14:00
-num: lect14
+lecture_date: 2020-03-02 14:00
+num: lect15
 ready: true
 
 ---
 
 
 #  Announcements
-* This Thursday lab session for group meetings and progress - no new lab points. Finish up lab06!
-* Final Homework (h09) due on Monday
-* Sample exam questions posted on Slack 
+* Wednesday is our Exam. Reminder: One double-sided letter-sized sheet of notes (any text size) will be the only material allowed. 
+* Roadmap to Final Presentations: two more lab sessions. 
+* Volunteer Groups for presentation on Wed. March, 11th? 
 
 
 
-# Guest lecture by Ramon Rovirosa and colleagues (AppFolio)
-
+# Class Slides:
+User Evaluation:
+* <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_UserEvaluation.pdf>
+Lecture/HW Overview:
+* <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_Materials.pdf>
+Ethics: 
+* <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_Ethics.pdf>
 
 
 
