@@ -17,8 +17,12 @@ ready: true
 # Class Slides:
 User Evaluation:
 * <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_UserEvaluation.pdf>
+</br>
+
 Lecture/HW Overview:
 * <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_Materials.pdf>
+</br>
+
 Ethics: 
 * <https://sites.cs.ucsb.edu/~holl/CS48/handouts/Slides_Ethics.pdf>
 
