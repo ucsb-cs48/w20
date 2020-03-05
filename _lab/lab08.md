@@ -5,7 +5,7 @@ due: 2020-03-12 19:00
 github_org: ucsb-cs48-w20
 layout: lab
 num: lab08
-ready: false
+ready: true
 
 ---
 
