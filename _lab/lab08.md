@@ -74,13 +74,13 @@ After next week's lab, the TAs and instructor will assign final grades for lab08
 
 **Graded**: 
 
-* ({{page.num}}) (15 pts) 
-* ({{page.num}}) (10 pts) 
-* ({{page.num}}) (20 pts) 
-* ({{page.num}}) (10 pts) 
-* ({{page.num}}) (10 pts) 
-* ({{page.num}}) (10 pts) 
-* ({{page.num}}) (10 pts) 
-* ({{page.num}}) (15 pts) 
+* ({{page.num}}) (15 pts) README.md in final polished form?
+* ({{page.num}}) (10 pts) README instructions still worK
+* ({{page.num}}) (20 pts) Product features all work
+* ({{page.num}}) (10 pts) Code straightforward to understand?
+* ({{page.num}}) (10 pts) Code follows reasonably good coding practices
+* ({{page.num}}) (10 pts) At least some automated unit/integration testing?	
+* ({{page.num}}) (10 pts) Automation via GitHub Actions?
+* ({{page.num}}) (15 pts) Product UI easy to understand / navigate?
 </div>
 
