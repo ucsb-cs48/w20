@@ -1,9 +1,8 @@
 ---
-assigned: 2020-02-20 16:00
+assigned: 2020-03-05 16:00
 desc: 'FINAL DEADLINE: Final product'
 due: 2020-03-12 19:00
 github_org: ucsb-cs48-w20
-lab_date: 2020-03-05
 layout: lab
 num: lab08
 ready: false
@@ -49,17 +48,15 @@ The changes should be ones that are easy to review and understand, and each shou
 
 The context of the deadline is that the mentors and TAs reviewing your work ARE ALSO STUDENTS and have their own school work, final exams, etc.  
 
-The purpose of the deadline is to give 
-
 The spirit of the rule allowing minor changes is that the changes here would be considered "patch updates", not items that would constituted a major or minor new release of the software, and are relatively easy for a mentor/TA to review and accept if they have already reviewed your main project code.
 
 # What to do in lab on {{page.lab_date}}
 
-Today, your mentor will by making a final assessment of your project.
+You will be working toward your mentor being able to make a final assessment of your project.
 
 Mentors, please copy the rubric from the template:
 
-[lab08.md](https://github.com/ucsb-cs48-w19/FEEDBACK_TEMPLATES/blob/master/lab08.md)
+[lab08_rubric.md](https://github.com/ucsb-cs48-w20/cs48_agile/blob/master/lab08_rubric.md)
 
 Copy this into the team's private `_FEEDBACK` repo and fill in each item.
 
@@ -68,10 +65,22 @@ Do this with the team watching.
 # Are these assessments final?
 
 MENTORS: At your discretion:
-* if you *want* and are *able* (given your schedule) to allow your team additional time to 
-fix any items below and re-review them, you may.   
-* But you are NOT obligated to do so.   
-* You may give any deadline between now and midnight before next week's lab
-   * BE SURE provided that you leave yourself enough time to complete the re-review BEFORE lab09's lab STARTS (*NOT* during next week's lab).
+* over the coming week until the deadline on 03/12, work with the team and find a way to sign off on the items in the rubric. 
+* TEAMS: BE SURE provided that you leave yourself enough time to complete the re-review BEFORE lab09's lab STARTS (*NOT* during next week's lab).
 
 After next week's lab, the TAs and instructor will assign final grades for lab08.
+
+<div class="grade" markdown="1">
+
+**Graded**: 
+
+* ({{page.num}}) (15 pts) 
+* ({{page.num}}) (10 pts) 
+* ({{page.num}}) (20 pts) 
+* ({{page.num}}) (10 pts) 
+* ({{page.num}}) (10 pts) 
+* ({{page.num}}) (10 pts) 
+* ({{page.num}}) (10 pts) 
+* ({{page.num}}) (15 pts) 
+</div>
+
