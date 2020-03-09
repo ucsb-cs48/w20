@@ -11,7 +11,7 @@ ready: true
 
 * Reminder: No class on Wednesday. Come to the [UCSB CS Summit, summit.cs](http://www.ucsb-cs-summit.com/)! 
 
-* Reminder: First three project presentations on Thursday during Section: *4pm-Tree*, *4pm-Laptops*, and *5pm-Rideshare*
+* Reminder: First three project presentations on Thursday during Section: **4pm-Tree**, **4pm-Laptops**, and **5pm-Rideshare**
 
 * Reminder: Project Deliverable Grading Component:
  
@@ -27,9 +27,9 @@ ready: true
 
    We will cross-reference against both an initial quartiling judgment averaged among the evaluators, and against a ranking stemming from peer-review
  
-* *Complete code for your project*: This is obviously your GitHub Repo, which should be *frozen by Thu, March 12, 7pm* modulo tutor-approved fixes. 
+* **Complete code for your project**: This is obviously your GitHub Repo, which should be **frozen by Thu, March 12, 7pm*** modulo tutor-approved fixes. 
 
-* *Submit final documentation by Tue, March 17, 23:59:59:*
+* **Submit final documentation by Tue, March 17, 23:59:59:**
    * Manual for your product. Document that describes how the product is to be used. Please make use of screen shots here to document all functionality.
    * Documentation of your programming effort and your design process. This should be a separate document, giving an overview of the different steps you went through and presenting all documentation materials you produced on the way. This may include:
 	  * Acknowledgement of all external resources you used / consulted for your project. Documentation of the different stages of your design (see above, with additional material, e.g. sketches, mockups, questionnaires, etc.)
