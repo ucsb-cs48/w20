@@ -1,5 +1,5 @@
 ---
-title: Homework
+title: Lectures
 permalink: "/lectures/"
 ---
 
