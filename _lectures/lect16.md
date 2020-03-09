@@ -1,5 +1,5 @@
 ---
-desc: Projects and Retrospective
+desc: Projects / Ethics / Course Eval 
 lecture_date: 2020-03-09 14:00
 num: lect16
 ready: true
