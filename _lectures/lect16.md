@@ -32,10 +32,11 @@ ready: true
 * **Submit final documentation by Tue, March 17, 23:59:59:**
    * Manual for your product. Document that describes how the product is to be used. Please make use of screen shots here to document all functionality.
    * Documentation of your programming effort and your design process. This should be a separate document, giving an overview of the different steps you went through and presenting all documentation materials you produced on the way. This may include:
-	  * Acknowledgement of all external resources you used / consulted for your project. Documentation of the different stages of your design (see above, with additional material, e.g. sketches, mockups, questionnaires, etc.)
-	  * Evaluation/Testing results (qualitative, quantitative). There should be a description on when and how testing took place, and a presentation of the results. 
 	  * A summary of your design decisions and what they were based on.
+	  * Documentation of the different stages of your design (Meeting logs, etc., with additional material, e.g. sketches, mockups, questionnaires, etc.)
+	  * Evaluation/Testing results (qualitative, quantitative). There should be a description on when and how testing took place, and a presentation of the results. 
 	  * Any implementation difficulties you encountered and how you addressed them.  
+	  * Acknowledgement of all external resources you used / consulted for your project. 
 <br/>
 
    Project Presentation:
