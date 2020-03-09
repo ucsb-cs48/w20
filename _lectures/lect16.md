@@ -9,6 +9,10 @@ ready: true
 
 ## Topics: 
 
+* Reminder: No class on Wednesday. Come to the [UCSB CS Summit, summit.cs](http://www.ucsb-cs-summit.com/)! 
+
+* Reminder: First three project presentations on Thursday during Section: *4pm-Tree*, *4pm-Laptops*, and *5pm-Rideshare*
+
 * Reminder: Project Deliverable Grading Component:
  
    Here is the point percentage breakdown for grading that the TAs and I plan to use for the "Final Product" 35% of the course grade. 
