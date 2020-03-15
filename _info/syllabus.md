@@ -37,11 +37,9 @@ projects.
 
 The formula to determine your course grade average is explained in the table below.
 
-Regardless of any other policies spelled out here, the average used to
+<s>Regardless of any other policies spelled out here, the average used to
 determine your final letter grade may be no higher than one full
-letter grade higher than your exam average.
-
-Thus,
+letter grade higher than your exam average. Thus,</s>
 
 -   reasonably good performance on exams is very important to earning a good final grade in the course.
 -   an A or B should not be out of reach for anyone that has a reasonably good mastery of course concepts (enough to earn a B or C on the exams), and puts in hard work on the labs and project points.
